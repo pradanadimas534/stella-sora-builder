@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "intervalHours": 6,
+  "gameData": {
+    "id": "stellabase",
+    "label": "StellaBase · data game komunitas",
+    "baseUrl": "https://stella.ennead.cc",
+    "charactersPath": "/api/stella/characters?lang=en",
+    "characterPath": "/api/stella/character/{id}?lang=en",
+    "discsPath": "/api/stella/discs?lang=en",
+    "discPath": "/api/stella/disc/{id}?lang=en"
+  },
+  "pages": [
+    { "id": "official-news", "label": "Stella Sora · pengumuman resmi", "kind": "official", "url": "https://stellasora.global/news", "apiUrl": "https://stellasora.global/api/resource/news?index=1&size=50&type=latest" },
+    { "id": "mobi-chitose", "label": "Mobi.gg · Chitose build", "kind": "community", "url": "https://mobi.gg/en/tips/stella-sora-chitose-build/" },
+    { "id": "maygii-wraith", "label": "Maygii · panduan Wraith dengan perhitungan", "kind": "community", "url": "https://www.reddit.com/r/StellaSora/comments/1rjgvt1/wraith_build_guide_wmath/" }
+  ],
+  "feeds": [
+    { "id": "reddit-new", "label": "r/StellaSora · kiriman baru", "kind": "community", "url": "https://www.reddit.com/r/StellaSora/new/.rss" }
+  ],
+  "youtube": { "enabled": true, "query": "Stella Sora build guide", "channelIds": [] },
+  "google": { "enabled": true, "query": "Stella Sora build guide buff nerf" },
+  "facebook": { "enabled": true, "pageIds": [] },
+  "communityBuildFeeds": []
+}

@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "claims": [
+    {
+      "id": "mobi-chitose-aqua-skill",
+      "sourceId": "mobi-chitose",
+      "sourceUrl": "https://mobi.gg/en/tips/stella-sora-chitose-build/",
+      "sourceLabel": "Mobi.gg · Platypousse",
+      "author": "Platypousse",
+      "publishedAt": "2026-07-28T14:00:00Z",
+      "reviewedAt": "2026-09-11T00:00:00Z",
+      "status": "reviewed",
+      "main": "chitose",
+      "supports": [
+        "iris",
+        "teresa"
+      ],
+      "goals": [
+        "balanced",
+        "boss"
+      ],
+      "damageTags": [
+        "skill"
+      ],
+      "discIds": [
+        "disc-214005"
+      ],
+      "summary": "Panduan menyebut Iris dan Teresa sebagai opsi tim Aqua Chitose; Sunlit Blossom termasuk pilihan Disc untuk jalur Skill.",
+      "conditions": "Panduan juga membahas jalur Auto Attack dan tim campuran. Klaim ini hanya mencakup opsi Aqua untuk jalur Skill, bukan perbandingan DPS.",
+      "baseline": "curated",
+      "expiresAfterDays": 90,
+      "catalogRevision": "live-0cf8911375ea5844",
+      "sourceFingerprint": "c9972d8e306a7b14327ef194c98443ff09f622f2197573e0338656f04731ff53"
+    }
+  ]
+}

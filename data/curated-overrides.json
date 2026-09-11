@@ -1,0 +1,2197 @@
+{
+  "trekker:119": {
+    "fingerprint": "f06ed65de69475a4483d4442aa5c69bf6d0bce98f2c4509bb10b70320f16b24c",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/119",
+    "data": {
+      "damageTags": [
+        "skill",
+        "mark",
+        "ultimate"
+      ],
+      "supportTags": [],
+      "summary": "Shuriken berulang memicu Ventus Mark. Clone dari Ultimate menambah serangan selama durasinya.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · shuriken Skill",
+          "stats": [
+            "Skill DMG",
+            "Ventus DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Whirling Blade",
+            "Bloom Dance"
+          ],
+          "skills": [
+            "Main Skill: Flowers Dance",
+            "Ultimate: Flowers Thrice"
+          ],
+          "tip": "Pasangkan dengan pemasang Ventus Mark seperti Nazuka atau Ann. Jalur ini memusatkan investasi pada shuriken Main Skill.",
+          "damageTags": [
+            "skill",
+            "mark",
+            "ultimate"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · exploding sunflower",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Ventus DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Floral Nexus",
+            "Gentle Thaw"
+          ],
+          "skills": [
+            "Support Skill: Flowers Bloom",
+            "Ultimate: Flowers Thrice"
+          ],
+          "tip": "Bunga support memicu Ventus Mark; sediakan pemasang Breeze lain. Floral Nexus membantu shuriken mengikuti target dan Gentle Thaw memberi manfaat saat Mark dipicu."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · shuriken Skill",
+        "stats": [
+          "Skill DMG",
+          "Ventus DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Whirling Blade",
+          "Bloom Dance"
+        ],
+        "skills": [
+          "Main Skill: Flowers Dance",
+          "Ultimate: Flowers Thrice"
+        ],
+        "tip": "Pasangkan dengan pemasang Ventus Mark seperti Nazuka atau Ann. Jalur ini memusatkan investasi pada shuriken Main Skill.",
+        "damageTags": [
+          "skill",
+          "mark",
+          "ultimate"
+        ]
+      }
+    }
+  },
+  "trekker:133": {
+    "fingerprint": "662aeb491d39b810a40d64ec4a514051aa0961450fb653d20d259cb5f292bc79",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/133",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "mark"
+      ],
+      "summary": "Bouquet dan Flower Formation memasang Ventus Mark untuk serangan rekan satu elemen.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support DPS · aplikasi Mark",
+          "stats": [
+            "Skill DMG",
+            "Ventus DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Youth: Dazzling",
+            "Youth: Hunting"
+          ],
+          "skills": [
+            "Support Skill: Bouquet Blast",
+            "Ultimate: Aromatic Tempest"
+          ],
+          "tip": "Utamakan uptime Flower Petals. Jalur support ini menyuplai Mark agar Vanguard Ventus dapat terus memicunya.",
+          "damageTags": [
+            "skill"
+          ]
+        },
+        "main": {
+          "focus": "Main DPS · pinwheel Skill",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Ventus DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Blooming Gale",
+            "Everlasting Elegance"
+          ],
+          "skills": [
+            "Main Skill: Blooming Draught",
+            "Ultimate: Aromatic Tempest"
+          ],
+          "tip": "Perpanjang durasi pinwheel dan jaga channel Main Skill. Pasangkan dengan pemasang Breeze; jalur main ini memicu Mark lewat pinwheel."
+        }
+      },
+      "build": {
+        "focus": "Support DPS · aplikasi Mark",
+        "stats": [
+          "Skill DMG",
+          "Ventus DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Youth: Dazzling",
+          "Youth: Hunting"
+        ],
+        "skills": [
+          "Support Skill: Bouquet Blast",
+          "Ultimate: Aromatic Tempest"
+        ],
+        "tip": "Utamakan uptime Flower Petals. Jalur support ini menyuplai Mark agar Vanguard Ventus dapat terus memicunya.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:123": {
+    "fingerprint": "083f9f6883313c7f4a37c533c2f68651bdaf9acccba21bc450aefadb3cce41bc",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/123",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "mark",
+        "buff",
+        "shield",
+        "debuff"
+      ],
+      "summary": "Dinding angin menahan proyektil dan memasang Ventus Mark. Potential tertentu memberi shield serta buff ATK.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support · perlindungan dan Mark",
+          "stats": [
+            "HP",
+            "ATK",
+            "Ventus DMG"
+          ],
+          "potentials": [
+            "Warm Wind Guard",
+            "Wind Banish"
+          ],
+          "skills": [
+            "Support Skill: Wind Barrier",
+            "Ultimate: Call of the Wild"
+          ],
+          "tip": "Dengan Warm Wind Guard, lewati dinding angin untuk memperoleh shield dan buff. HP memperkuat shield yang berskala dari HP dasar Ann.",
+          "damageTags": [
+            "skill"
+          ]
+        }
+      },
+      "build": {
+        "focus": "Support · perlindungan dan Mark",
+        "stats": [
+          "HP",
+          "ATK",
+          "Ventus DMG"
+        ],
+        "potentials": [
+          "Warm Wind Guard",
+          "Wind Banish"
+        ],
+        "skills": [
+          "Support Skill: Wind Barrier",
+          "Ultimate: Call of the Wild"
+        ],
+        "tip": "Dengan Warm Wind Guard, lewati dinding angin untuk memperoleh shield dan buff. HP memperkuat shield yang berskala dari HP dasar Ann.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:112": {
+    "fingerprint": "6bc5f44f0291fadd4cc91eda62afd281e73e8741bf063f642720c22dfdaed443",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/112",
+    "data": {
+      "damageTags": [
+        "skill",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Tebasan beruntun memicu Breeze menjadi Cyclone. Pilihan Vanguard Ventus bintang empat.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · combo Skill",
+          "stats": [
+            "Skill DMG",
+            "Ventus DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Slash: Dual Strike!",
+            "Slash: Chain Slash!"
+          ],
+          "skills": [
+            "Main Skill: Sonic Slash",
+            "Ultimate: Skyshatter Rend"
+          ],
+          "tip": "Sediakan Breeze dari support sebelum combo. Fokuskan potential pada cabang Skill agar investasi damage tetap konsisten.",
+          "damageTags": [
+            "skill",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · sword aura",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Ventus DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Gallop: Flurry!",
+            "Gallop: Squall!"
+          ],
+          "skills": [
+            "Support Skill: Gale Storm",
+            "Ultimate: Skyshatter Rend"
+          ],
+          "tip": "Bangun major sword aura pada cabang Gallop. Noya support memicu Breeze; ia tetap membutuhkan pemasang Mark di tim."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · combo Skill",
+        "stats": [
+          "Skill DMG",
+          "Ventus DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Slash: Dual Strike!",
+          "Slash: Chain Slash!"
+        ],
+        "skills": [
+          "Main Skill: Sonic Slash",
+          "Ultimate: Skyshatter Rend"
+        ],
+        "tip": "Sediakan Breeze dari support sebelum combo. Fokuskan potential pada cabang Skill agar investasi damage tetap konsisten.",
+        "damageTags": [
+          "skill",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:144": {
+    "fingerprint": "60724dfa2cb38643d1d8747a766cadc7c6aefa26f69cfaad0efcf4c6365e92bb",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/144",
+    "data": {
+      "damageTags": [
+        "skill",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Dash berulang membuka Torrent Flash yang diperkuat dan memicu Aqua Mark.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · Torrent Flash",
+          "stats": [
+            "Skill DMG",
+            "Aqua DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Cascade of Ruin",
+            "Against the Flow"
+          ],
+          "skills": [
+            "Main Skill: Torrent Flash",
+            "Ultimate: Waves of Naraka"
+          ],
+          "tip": "Jaga siklus Main Skill dan ketersediaan Aqua Mark. Shield Teresa membantu mempertahankan tekanan saat bertarung jarak dekat.",
+          "damageTags": [
+            "skill",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · rapid combo slash",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Crit Rate",
+            "Aqua DMG"
+          ],
+          "potentials": [
+            "Submerged Fang",
+            "Whirl Blade"
+          ],
+          "skills": [
+            "Support Skill: Water Surge",
+            "Ultimate: Waves of Naraka"
+          ],
+          "tip": "Cabang ini memperkuat rapid combo slash. Whirl Blade mendapat manfaat dari Crit; tetap sediakan pemasang Aqua Mark untuk dipicu."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · Torrent Flash",
+        "stats": [
+          "Skill DMG",
+          "Aqua DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Cascade of Ruin",
+          "Against the Flow"
+        ],
+        "skills": [
+          "Main Skill: Torrent Flash",
+          "Ultimate: Waves of Naraka"
+        ],
+        "tip": "Jaga siklus Main Skill dan ketersediaan Aqua Mark. Shield Teresa membantu mempertahankan tekanan saat bertarung jarak dekat.",
+        "damageTags": [
+          "skill",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:125": {
+    "fingerprint": "d0c447e963b81a37875dac1d7812edbb9fdc24c566fdeee947ce0be1c45bd27a",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/125",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "mark"
+      ],
+      "summary": "Ice Flowers memasang Torrent. Saat Berserk, Freesia dapat terus menyerang meski berada di posisi support.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support DPS · Ice Flowers",
+          "stats": [
+            "Skill DMG",
+            "Aqua DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Realm of Frost",
+            "Chill Forecast"
+          ],
+          "skills": [
+            "Support Skill: Frost Bloom",
+            "Ultimate: Elegy of Frost"
+          ],
+          "tip": "Bangun cakupan Ice Flowers dan gunakan Ultimate agar Freesia menyerang sebagai support selama Berserk.",
+          "damageTags": [
+            "skill"
+          ]
+        },
+        "main": {
+          "focus": "Main DPS · charged Whirlwind Slash",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Aqua DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Whirlwind Frenzy",
+            "Unstoppable March"
+          ],
+          "skills": [
+            "Main Skill: Freezing Swirl",
+            "Ultimate: Elegy of Frost"
+          ],
+          "tip": "Tahan Main Skill untuk memperpanjang serangan. Jalur Whirlwind memperkuat channel; butuh pemasang Aqua Mark seperti Iris atau Teresa."
+        }
+      },
+      "build": {
+        "focus": "Support DPS · Ice Flowers",
+        "stats": [
+          "Skill DMG",
+          "Aqua DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Realm of Frost",
+          "Chill Forecast"
+        ],
+        "skills": [
+          "Support Skill: Frost Bloom",
+          "Ultimate: Elegy of Frost"
+        ],
+        "tip": "Bangun cakupan Ice Flowers dan gunakan Ultimate agar Freesia menyerang sebagai support selama Berserk.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:127": {
+    "fingerprint": "2758d13d6722ead0930d56da340cd5cb351958e5f1dfb045bd265e3f23d30150",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/127",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "shield",
+        "mark",
+        "buff"
+      ],
+      "summary": "Tidal Domain memberikan Surging Shield kepada main Trekker, sekaligus memasang Aqua Mark.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support · Surging Shield",
+          "stats": [
+            "ATK",
+            "Aqua DMG",
+            "Skill DMG"
+          ],
+          "potentials": [
+            "Surge: Infinite",
+            "Surge: Ripple"
+          ],
+          "skills": [
+            "Support Skill: Billowing Tide",
+            "Ultimate: Slicing Riptide"
+          ],
+          "tip": "Surging Shield berskala dari ATK dasar Teresa. Perpanjang durasinya untuk menjaga perlindungan dan pasokan Mark bagi main Trekker Aqua.",
+          "damageTags": [
+            "skill"
+          ]
+        }
+      },
+      "build": {
+        "focus": "Support · Surging Shield",
+        "stats": [
+          "ATK",
+          "Aqua DMG",
+          "Skill DMG"
+        ],
+        "potentials": [
+          "Surge: Infinite",
+          "Surge: Ripple"
+        ],
+        "skills": [
+          "Support Skill: Billowing Tide",
+          "Ultimate: Slicing Riptide"
+        ],
+        "tip": "Surging Shield berskala dari ATK dasar Teresa. Perpanjang durasinya untuk menjaga perlindungan dan pasokan Mark bagi main Trekker Aqua.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:111": {
+    "fingerprint": "6f71da7de94cf8773d711381bd202bab2c795a77e4ce07e6ad86a79c973689c2",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/111",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "mark",
+        "gather"
+      ],
+      "summary": "Glacier Array menyerang area dan memasang Torrent. Potential Vortex menambahkan tarikan musuh.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support DPS · area dan kontrol",
+          "stats": [
+            "Skill DMG",
+            "Aqua DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Blizzard: Spread",
+            "Blizzard: Vortex"
+          ],
+          "skills": [
+            "Support Skill: Iceberg Surge",
+            "Ultimate: Arctic Vortex"
+          ],
+          "tip": "Pilihan bintang empat untuk menyuplai Aqua Mark. Tarikan Blizzard: Vortex membantu serangan area mengenai lebih banyak musuh.",
+          "damageTags": [
+            "skill"
+          ]
+        },
+        "main": {
+          "focus": "Main DPS · Glacier Greatarrow",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Aqua DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Vector: Solidifying",
+            "Vector: Shatter"
+          ],
+          "skills": [
+            "Main Skill: Frozen Path",
+            "Ultimate: Arctic Vortex"
+          ],
+          "tip": "Bangun tumpukan lewat Auto Attack sebelum Main Skill. Cabang Vector memperkuat Greatarrow; efek Glacier Array dari jalur support tidak berlaku di posisi ini."
+        }
+      },
+      "build": {
+        "focus": "Support DPS · area dan kontrol",
+        "stats": [
+          "Skill DMG",
+          "Aqua DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Blizzard: Spread",
+          "Blizzard: Vortex"
+        ],
+        "skills": [
+          "Support Skill: Iceberg Surge",
+          "Ultimate: Arctic Vortex"
+        ],
+        "tip": "Pilihan bintang empat untuk menyuplai Aqua Mark. Tarikan Blizzard: Vortex membantu serangan area mengenai lebih banyak musuh.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:113": {
+    "fingerprint": "5655b3e2764c28af01d43b2df8a419eb1bb8ac21bef40e33a1fb6fdfc8bb82c7",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/113",
+    "data": {
+      "damageTags": [
+        "skill",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Main Skill dua fase memicu Torrent; cabang potential dapat menguatkan serangan terhadap elite.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · Skill melawan elite",
+          "stats": [
+            "Skill DMG",
+            "Aqua DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Stream Embrace",
+            "Wave Swirl"
+          ],
+          "skills": [
+            "Main Skill: Rising Tides",
+            "Ultimate: Flood Mantra"
+          ],
+          "tip": "Sediakan Torrent dari Iris atau Teresa. Untuk gerombolan, pertimbangkan cabang Torrent Plunge sesuai pilihan potential yang muncul.",
+          "damageTags": [
+            "skill",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · water blades",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Aqua DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Rain Whisper: Gentle",
+            "Rain Whisper: Light"
+          ],
+          "skills": [
+            "Support Skill: Aqua Aide",
+            "Ultimate: Flood Mantra"
+          ],
+          "tip": "Bangun jumlah water blade dan durasi kontribusinya lewat jalur Rain Whisper. Support Skill dapat memicu Torrent dari rekan Aqua."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · Skill melawan elite",
+        "stats": [
+          "Skill DMG",
+          "Aqua DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Stream Embrace",
+          "Wave Swirl"
+        ],
+        "skills": [
+          "Main Skill: Rising Tides",
+          "Ultimate: Flood Mantra"
+        ],
+        "tip": "Sediakan Torrent dari Iris atau Teresa. Untuk gerombolan, pertimbangkan cabang Torrent Plunge sesuai pilihan potential yang muncul.",
+        "damageTags": [
+          "skill",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:114": {
+    "fingerprint": "92d80acd1115bf8e40508b00cfe0cb5b46fed53f4dd96b33de902dd60b1e0662",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/114",
+    "data": {
+      "damageTags": [
+        "skill",
+        "ultimate",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Main Skill memiliki mode laser dan bom. Ultimate membuka Evil Eye Unleashed dengan serangan yang diperkuat.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · Bouncing Bomb",
+          "stats": [
+            "Skill DMG",
+            "Ignis DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Area Explosion",
+            "Overwhelming Throw"
+          ],
+          "skills": [
+            "Main Skill: Sniper Operation",
+            "Ultimate: Dark Evil Eye"
+          ],
+          "tip": "Tahan Main Skill untuk cabang Bouncing Bomb ini. Chixia atau Flora memasang Ignis Mark untuk dipicu oleh Chaton.",
+          "damageTags": [
+            "skill",
+            "ultimate",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · Penetrating Bullet",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Ignis DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Ambush Operation",
+            "Combat Frenzy"
+          ],
+          "skills": [
+            "Support Skill: Blitz Assault",
+            "Ultimate: Dark Evil Eye"
+          ],
+          "tip": "Cabang support membangun tembakan Penetrating Bullet. Potential Bouncing Bomb milik Main Skill tidak menjadi prioritas di posisi ini."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · Bouncing Bomb",
+        "stats": [
+          "Skill DMG",
+          "Ignis DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Area Explosion",
+          "Overwhelming Throw"
+        ],
+        "skills": [
+          "Main Skill: Sniper Operation",
+          "Ultimate: Dark Evil Eye"
+        ],
+        "tip": "Tahan Main Skill untuk cabang Bouncing Bomb ini. Chixia atau Flora memasang Ignis Mark untuk dipicu oleh Chaton.",
+        "damageTags": [
+          "skill",
+          "ultimate",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:141": {
+    "fingerprint": "18f7b8c84cb4e0a325ea689c22fe30272f1023ca1b57f0e476a6d9cdf8233ba4",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/141",
+    "data": {
+      "damageTags": [
+        "minion",
+        "skill"
+      ],
+      "supportTags": [
+        "mark"
+      ],
+      "summary": "Support Skill memanggil Crimson Dragon. Serangan minion memasang Sacred Flame untuk Vanguard Ignis.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support DPS · Crimson Dragon",
+          "stats": [
+            "Minion DMG",
+            "Ignis DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Crimson Dragon: Convergence",
+            "Crimson Dragon: Chant"
+          ],
+          "skills": [
+            "Support Skill: Awakening: Crimson Dragon",
+            "Ultimate: Dragon's Ascension"
+          ],
+          "tip": "Bangun jumlah dan uptime naga. Bedakan bonus Minion DMG dengan Skill DMG saat memilih Disc.",
+          "damageTags": [
+            "minion",
+            "skill"
+          ]
+        },
+        "main": {
+          "focus": "Main DPS · torrent of flames",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Ignis DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Sleepless Flame",
+            "Blazing Rainbow Array"
+          ],
+          "skills": [
+            "Main Skill: Purifying Flames",
+            "Ultimate: Dragon's Ascension"
+          ],
+          "tip": "Jaga musuh dalam jangkauan semburan api. Jalur main memakai Skill DMG; prioritas Minion DMG dari build Crimson Dragon support tidak dipakai di sini."
+        }
+      },
+      "build": {
+        "focus": "Support DPS · Crimson Dragon",
+        "stats": [
+          "Minion DMG",
+          "Ignis DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Crimson Dragon: Convergence",
+          "Crimson Dragon: Chant"
+        ],
+        "skills": [
+          "Support Skill: Awakening: Crimson Dragon",
+          "Ultimate: Dragon's Ascension"
+        ],
+        "tip": "Bangun jumlah dan uptime naga. Bedakan bonus Minion DMG dengan Skill DMG saat memilih Disc.",
+        "damageTags": [
+          "minion",
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:126": {
+    "fingerprint": "60890170b3f03e1a1156420b63834d44baff27c3fea81a17792d41ef60eb783e",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/126",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "buff",
+        "mark",
+        "heal",
+        "gather"
+      ],
+      "summary": "Butterfly memberi buff kritikal dan Sacred Flame. Backstage Support dapat memulihkan HP saat rekan menghasilkan Crit.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support · buff kritikal",
+          "stats": [
+            "ATK",
+            "Ignis DMG",
+            "Skill DMG"
+          ],
+          "potentials": [
+            "Ashes of the Past",
+            "Spark of Ashes",
+            "Backstage Support"
+          ],
+          "skills": [
+            "Support Skill: Flutter Flare",
+            "Ultimate: Undying Phoenix"
+          ],
+          "tip": "Prioritaskan Butterfly sebelum burst Vanguard. Pemulihan HP membutuhkan Backstage Support dan pemicu Crit dari rekan; bukan heal tanpa syarat.",
+          "damageTags": [
+            "skill"
+          ]
+        }
+      },
+      "build": {
+        "focus": "Support · buff kritikal",
+        "stats": [
+          "ATK",
+          "Ignis DMG",
+          "Skill DMG"
+        ],
+        "potentials": [
+          "Ashes of the Past",
+          "Spark of Ashes",
+          "Backstage Support"
+        ],
+        "skills": [
+          "Support Skill: Flutter Flare",
+          "Ultimate: Undying Phoenix"
+        ],
+        "tip": "Prioritaskan Butterfly sebelum burst Vanguard. Pemulihan HP membutuhkan Backstage Support dan pemicu Crit dari rekan; bukan heal tanpa syarat.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:103": {
+    "fingerprint": "b27f53f82aeeac3b19df315754eb0d0c502f976107a01e05fc19a6284a3bb4ab",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/103",
+    "data": {
+      "damageTags": [
+        "basic",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Main Skill memperkuat Auto Attack. Potential magazine membuka rangkaian tembakan setelah reload.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · Auto Attack",
+          "stats": [
+            "Auto Attack DMG",
+            "ATK SPD",
+            "ATK"
+          ],
+          "potentials": [
+            "Dominant Firepower",
+            "Bullet Storm"
+          ],
+          "skills": [
+            "Main Skill: Fireworks Jam",
+            "Ultimate: Spark of Finality"
+          ],
+          "tip": "Gunakan Main Skill sebelum menghabiskan magazine. Buff kritikal Flora mendukung tembakan berulang Amber.",
+          "damageTags": [
+            "basic",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · Bullet Waltz",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Ignis DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Hunting Waltz",
+            "Scattering Waltz"
+          ],
+          "skills": [
+            "Support Skill: Bullet Waltz",
+            "Ultimate: Spark of Finality"
+          ],
+          "tip": "Bangun serangan dan Shadows dari Bullet Waltz. Jalur support memakai Skill DMG; prioritas magazine Auto Attack adalah untuk Amber main."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · Auto Attack",
+        "stats": [
+          "Auto Attack DMG",
+          "ATK SPD",
+          "ATK"
+        ],
+        "potentials": [
+          "Dominant Firepower",
+          "Bullet Storm"
+        ],
+        "skills": [
+          "Main Skill: Fireworks Jam",
+          "Ultimate: Spark of Finality"
+        ],
+        "tip": "Gunakan Main Skill sebelum menghabiskan magazine. Buff kritikal Flora mendukung tembakan berulang Amber.",
+        "damageTags": [
+          "basic",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:149": {
+    "fingerprint": "cfa81c3844f6919e53ec2d66b02427a34b9c9b0afe7c3541ff8c00438d99e320",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/149",
+    "data": {
+      "damageTags": [
+        "basic",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Iron Cage mengaktifkan Lethal dan meningkatkan Auto Attack. Cabang potential memperluas serangan serta pemicu Terra Mark.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · Lethal Auto Attack",
+          "stats": [
+            "Auto Attack DMG",
+            "Terra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Beyond All Control",
+            "Avalanche of Stone"
+          ],
+          "skills": [
+            "Main Skill: Thorned Inferno",
+            "Ultimate: Divine: Retribution of Evil"
+          ],
+          "tip": "Jaga Lethal aktif dan sediakan Terra Mark dari Ridge atau Nazuna. Beyond All Control membantu saat harus meninggalkan Iron Cage.",
+          "damageTags": [
+            "basic",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · chained spades",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Terra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Deeper into Sin",
+            "Curtain Call"
+          ],
+          "skills": [
+            "Support Skill: Immediate Execution",
+            "Ultimate: Divine: Retribution of Evil"
+          ],
+          "tip": "Perkuat chained spades dan serangan saat spade ditarik. Build support ini memakai Skill DMG, sementara Lethal Auto Attack adalah jalur main."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · Lethal Auto Attack",
+        "stats": [
+          "Auto Attack DMG",
+          "Terra DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Beyond All Control",
+          "Avalanche of Stone"
+        ],
+        "skills": [
+          "Main Skill: Thorned Inferno",
+          "Ultimate: Divine: Retribution of Evil"
+        ],
+        "tip": "Jaga Lethal aktif dan sediakan Terra Mark dari Ridge atau Nazuna. Beyond All Control membantu saat harus meninggalkan Iron Cage.",
+        "damageTags": [
+          "basic",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:116": {
+    "fingerprint": "c6907bd95bc9ba5f26740da1629417f2a58991b21fd9998f48ec7c628c8a5191",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/116",
+    "data": {
+      "damageTags": [
+        "skill",
+        "mark"
+      ],
+      "supportTags": [
+        "mark"
+      ],
+      "summary": "Seed shower memasang Earth Vein dan Seed Orb. Pemicu Terra Mark dari rekan mengaktifkan damage tambahan.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support DPS · Seed Orb",
+          "stats": [
+            "Skill DMG",
+            "Terra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Hasty Growth",
+            "Misplaced Bloom"
+          ],
+          "skills": [
+            "Support Skill: Floral Storm",
+            "Ultimate: Harvest Rhapsody"
+          ],
+          "tip": "Pasangkan dengan pemicu Terra Mark. Perpanjangan Seed Orb membantu menjaga rangkaian ledakan selama Vanguard menyerang.",
+          "damageTags": [
+            "skill",
+            "mark"
+          ]
+        },
+        "main": {
+          "focus": "Main DPS · energy rounds",
+          "damageTags": [
+            "basic",
+            "mark"
+          ],
+          "stats": [
+            "Auto Attack DMG",
+            "Terra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "A Fortunate Yield",
+            "Tangled Mess"
+          ],
+          "skills": [
+            "Main Skill: Bean Cyclone",
+            "Ultimate: Harvest Rhapsody"
+          ],
+          "tip": "Gunakan Main Skill untuk reload dan memperkuat Auto Attack. Jalur ini membangun energy rounds; sediakan Earth Vein dari support Terra."
+        }
+      },
+      "build": {
+        "focus": "Support DPS · Seed Orb",
+        "stats": [
+          "Skill DMG",
+          "Terra DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Hasty Growth",
+          "Misplaced Bloom"
+        ],
+        "skills": [
+          "Support Skill: Floral Storm",
+          "Ultimate: Harvest Rhapsody"
+        ],
+        "tip": "Pasangkan dengan pemicu Terra Mark. Perpanjangan Seed Orb membantu menjaga rangkaian ledakan selama Vanguard menyerang.",
+        "damageTags": [
+          "skill",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:156": {
+    "fingerprint": "284a6e5c048ed2658f46a01024e832982438e0ad779a213a89a9efe1d2474f13",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/156",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "buff",
+        "heal",
+        "mark"
+      ],
+      "summary": "Hasil raffle memberi buff ATK atau Terra DMG. Hasil seluruhnya hati memulihkan HP main Trekker.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support · Heart dan pemulihan",
+          "stats": [
+            "ATK",
+            "Terra DMG",
+            "Skill DMG"
+          ],
+          "potentials": [
+            "Arrow of Affection",
+            "Sweetheart Bloom",
+            "Honeyed Arrow"
+          ],
+          "skills": [
+            "Support Skill: Bingo Crush",
+            "Ultimate: Dream Spiral"
+          ],
+          "tip": "Cabang Heart meningkatkan peluang hasil hati. Heal tetap bergantung pada hasil raffle; sesuaikan permainan dengan HP yang tersedia.",
+          "damageTags": [
+            "skill"
+          ]
+        }
+      },
+      "build": {
+        "focus": "Support · Heart dan pemulihan",
+        "stats": [
+          "ATK",
+          "Terra DMG",
+          "Skill DMG"
+        ],
+        "potentials": [
+          "Arrow of Affection",
+          "Sweetheart Bloom",
+          "Honeyed Arrow"
+        ],
+        "skills": [
+          "Support Skill: Bingo Crush",
+          "Ultimate: Dream Spiral"
+        ],
+        "tip": "Cabang Heart meningkatkan peluang hasil hati. Heal tetap bergantung pada hasil raffle; sesuaikan permainan dengan HP yang tersedia.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:155": {
+    "fingerprint": "9e07d48b1badc7fbd06939f096d80395fd9924f674ea11c69ac2645d3333a83e",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/155",
+    "data": {
+      "damageTags": [
+        "skill",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Drone Main Skill menyerang berulang dan memicu Lux Mark. Cabang Rabbit mengembangkan damage dari serangan tersebut.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · drone Skill",
+          "stats": [
+            "Skill DMG",
+            "Lux DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Rimecrystal Edge",
+            "Astral Pirouette"
+          ],
+          "skills": [
+            "Main Skill: Whirling Waves",
+            "Ultimate: Divine Deluge"
+          ],
+          "tip": "Jalur ini memilih Rabbit yang dipanggil Main Skill. Periksa tipe damage pada potential; drone tidak otomatis berarti Minion DMG.",
+          "damageTags": [
+            "skill",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · surfing attacks",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Lux DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Bunny Torrent",
+            "Rabbit Flip"
+          ],
+          "skills": [
+            "Support Skill: Surfing Rondo",
+            "Ultimate: Divine Deluge"
+          ],
+          "tip": "Tambahkan jumlah surfing dan area bermuatan melalui cabang support. Sediakan Lux Mark agar serangan Shia dapat memicunya."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · drone Skill",
+        "stats": [
+          "Skill DMG",
+          "Lux DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Rimecrystal Edge",
+          "Astral Pirouette"
+        ],
+        "skills": [
+          "Main Skill: Whirling Waves",
+          "Ultimate: Divine Deluge"
+        ],
+        "tip": "Jalur ini memilih Rabbit yang dipanggil Main Skill. Periksa tipe damage pada potential; drone tidak otomatis berarti Minion DMG.",
+        "damageTags": [
+          "skill",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:132": {
+    "fingerprint": "a6f0216164f17197c13bd20e7f38a89036723d57d5bd43a1f52597de951e0535",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/132",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "mark",
+        "buff",
+        "shield"
+      ],
+      "summary": "Astral Hex memasang Radiance. Potential support dapat memberi shield dan Meteor yang meningkatkan ATK saat diambil.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support DPS · Astral Hex",
+          "stats": [
+            "Skill DMG",
+            "Lux DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Oath Satellite",
+            "Star Core Crumbled"
+          ],
+          "skills": [
+            "Support Skill: Gi: Supernova Burst",
+            "Ultimate: Ketsu: Entropic Convergence"
+          ],
+          "tip": "Ambil Meteor yang dihasilkan Star Core Crumbled untuk buff ATK. Shield membutuhkan potential Oath Satellite.",
+          "damageTags": [
+            "skill"
+          ]
+        },
+        "main": {
+          "focus": "Main DPS · combo base hit",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Lux DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Ultimatum",
+            "Clan Clash Artistry"
+          ],
+          "skills": [
+            "Main Skill: Syou: Pulsar Streak",
+            "Ultimate: Ketsu: Entropic Convergence"
+          ],
+          "tip": "Lanjutkan rangkaian Base Hit dan sediakan Radiance dari support Lux. Shield Oath Satellite adalah potential support dan tidak menjadi bagian jalur main ini."
+        }
+      },
+      "build": {
+        "focus": "Support DPS · Astral Hex",
+        "stats": [
+          "Skill DMG",
+          "Lux DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Oath Satellite",
+          "Star Core Crumbled"
+        ],
+        "skills": [
+          "Support Skill: Gi: Supernova Burst",
+          "Ultimate: Ketsu: Entropic Convergence"
+        ],
+        "tip": "Ambil Meteor yang dihasilkan Star Core Crumbled untuk buff ATK. Shield membutuhkan potential Oath Satellite.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:107": {
+    "fingerprint": "4b817108931057f6f433c810d5ca7d35816889efa3860ef33cabc021e0c49e88",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/107",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "mark",
+        "buff",
+        "debuff",
+        "shield",
+        "skill"
+      ],
+      "summary": "Aegis memasang Radiance dan stun. Potential Lux sphere menambah kerentanan musuh; Chalk Armor memberi shield saat Ultimate mengenai target.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support · Radiance dan perlindungan",
+          "stats": [
+            "HP",
+            "ATK",
+            "Lux DMG"
+          ],
+          "potentials": [
+            "Holy Inscription",
+            "Knight Oath: Chalk Armor"
+          ],
+          "skills": [
+            "Support Skill: Aegis Intervention",
+            "Ultimate: Glorious Smite"
+          ],
+          "tip": "Pilih Chalk Armor jika tim memerlukan shield. HP memperkuat shield tersebut; Holy Inscription meningkatkan manfaat tim Lux dari Aegis.",
+          "damageTags": [
+            "skill"
+          ]
+        }
+      },
+      "build": {
+        "focus": "Support · Radiance dan perlindungan",
+        "stats": [
+          "HP",
+          "ATK",
+          "Lux DMG"
+        ],
+        "potentials": [
+          "Holy Inscription",
+          "Knight Oath: Chalk Armor"
+        ],
+        "skills": [
+          "Support Skill: Aegis Intervention",
+          "Ultimate: Glorious Smite"
+        ],
+        "tip": "Pilih Chalk Armor jika tim memerlukan shield. HP memperkuat shield tersebut; Holy Inscription meningkatkan manfaat tim Lux dari Aegis.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:150": {
+    "fingerprint": "e55d973edf3ee8943ce091d1907d165da9e2459dee2e00030f1e53df5be906b3",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/150",
+    "data": {
+      "damageTags": [
+        "skill",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Sapuan dan laser memicu Radiance menjadi Thunderbolt. Potential menambah Thunder Domain dan serangan ke target Shock.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · laser dan Thunder Domain",
+          "stats": [
+            "Skill DMG",
+            "Lux DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Aerial Suspension",
+            "Arc Chain Laser"
+          ],
+          "skills": [
+            "Main Skill: Thunderflare Strike",
+            "Ultimate: Thunderfall Thrust"
+          ],
+          "tip": "Tilia dan Minova dapat memasok Radiance. Pertahankan target dalam jangkauan Thunder Domain untuk mendapatkan manfaat damage berulang.",
+          "damageTags": [
+            "skill",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · Thunder Domain",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Lux DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Radiant Flame: Cycle Restart",
+            "Radiant Flame: Flash Point"
+          ],
+          "skills": [
+            "Support Skill: Divine Thunderquake",
+            "Ultimate: Thunderfall Thrust"
+          ],
+          "tip": "Jalur support menambah jumlah Thunder Domain dan damage berulangnya. Pasangkan dengan pemasang Radiance seperti Tilia."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · laser dan Thunder Domain",
+        "stats": [
+          "Skill DMG",
+          "Lux DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Aerial Suspension",
+          "Arc Chain Laser"
+        ],
+        "skills": [
+          "Main Skill: Thunderflare Strike",
+          "Ultimate: Thunderfall Thrust"
+        ],
+        "tip": "Tilia dan Minova dapat memasok Radiance. Pertahankan target dalam jangkauan Thunder Domain untuk mendapatkan manfaat damage berulang.",
+        "damageTags": [
+          "skill",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:110": {
+    "fingerprint": "9892e3650d7a9a2058a1c1955657a36db39c061c94e44a853d85a5ded7e762aa",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/110",
+    "data": {
+      "damageTags": [
+        "minion",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Memanggil Shadow Clone yang melakukan combo. Clone memicu Umbra Mark dan mendapat jalur ledakan saat menghilang.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · Shadow Clone",
+          "stats": [
+            "Minion DMG",
+            "Umbra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Phantom Waltz",
+            "Shadow Step"
+          ],
+          "skills": [
+            "Main Skill: Elegant Parade",
+            "Ultimate: Personal Tuition"
+          ],
+          "tip": "Shadow Step meningkatkan batas clone berdasarkan rekan Umbra. Mistique dan Cosette memasok Gloom untuk rangkaian pemicu Mark.",
+          "damageTags": [
+            "minion",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · Shadow Clone",
+          "damageTags": [
+            "minion",
+            "mark"
+          ],
+          "stats": [
+            "Minion DMG",
+            "Umbra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Twin Shadow",
+            "Shadownight Descendant"
+          ],
+          "skills": [
+            "Support Skill: Reign of Night",
+            "Ultimate: Personal Tuition"
+          ],
+          "tip": "Tambah jumlah dan durasi Shadow Clone dari Reign of Night. Serangan main Trekker memicu serangan lanjutan clone support."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · Shadow Clone",
+        "stats": [
+          "Minion DMG",
+          "Umbra DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Phantom Waltz",
+          "Shadow Step"
+        ],
+        "skills": [
+          "Main Skill: Elegant Parade",
+          "Ultimate: Personal Tuition"
+        ],
+        "tip": "Shadow Step meningkatkan batas clone berdasarkan rekan Umbra. Mistique dan Cosette memasok Gloom untuk rangkaian pemicu Mark.",
+        "damageTags": [
+          "minion",
+          "mark"
+        ]
+      }
+    }
+  },
+  "trekker:135": {
+    "fingerprint": "73a2ac794e8b9af6b53f4a98c581f3e229dfce5c7cad90a9192be984d6297b91",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/135",
+    "data": {
+      "damageTags": [
+        "minion"
+      ],
+      "supportTags": [
+        "mark",
+        "gather"
+      ],
+      "summary": "Summoning Circle menghasilkan Lanterna Phantom yang meledak dan memasang Gloom. Potential tertentu menarik musuh ke lingkaran.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support DPS · Lanterna Phantom",
+          "stats": [
+            "Minion DMG",
+            "Umbra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Happy Face",
+            "Slumber Invitation"
+          ],
+          "skills": [
+            "Support Skill: Summoning Circle",
+            "Ultimate: Midnight ★ Terror"
+          ],
+          "tip": "Jaga musuh di dalam lingkaran agar ledakan phantom konsisten. Tarikan memerlukan Slumber Invitation.",
+          "damageTags": [
+            "minion"
+          ]
+        },
+        "main": {
+          "focus": "Main DPS · Pumpka Phantom",
+          "damageTags": [
+            "minion",
+            "mark"
+          ],
+          "stats": [
+            "Minion DMG",
+            "Umbra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Extended Exposure",
+            "Thread the Needle"
+          ],
+          "skills": [
+            "Main Skill: Pumpka Pummel",
+            "Ultimate: Midnight ★ Terror"
+          ],
+          "tip": "Jaga Exposure dan jumlah Pumpka Phantom. Pasang Gloom lewat support seperti Cosette; build main memanggil Pumpka, sedangkan jalur support memakai Lanterna."
+        }
+      },
+      "build": {
+        "focus": "Support DPS · Lanterna Phantom",
+        "stats": [
+          "Minion DMG",
+          "Umbra DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Happy Face",
+          "Slumber Invitation"
+        ],
+        "skills": [
+          "Support Skill: Summoning Circle",
+          "Ultimate: Midnight ★ Terror"
+        ],
+        "tip": "Jaga musuh di dalam lingkaran agar ledakan phantom konsisten. Tarikan memerlukan Slumber Invitation.",
+        "damageTags": [
+          "minion"
+        ]
+      }
+    }
+  },
+  "trekker:142": {
+    "fingerprint": "d471c498ccab5b9f80e9bcc005412a121dd15c2e8bc1f899a3b3d132d34b47aa",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/142",
+    "data": {
+      "damageTags": [
+        "skill"
+      ],
+      "supportTags": [
+        "mark",
+        "debuff",
+        "gather"
+      ],
+      "summary": "Claw strike memasang Gloom dan meningkatkan Umbra DMG yang diterima musuh. Ultimate menarik musuh ke area serangan.",
+      "buildPosition": "support",
+      "builds": {
+        "support": {
+          "focus": "Support · debuff Umbra",
+          "stats": [
+            "ATK",
+            "Umbra DMG",
+            "Skill DMG"
+          ],
+          "potentials": [
+            "Abyssal Mark",
+            "Eclipse Imprint"
+          ],
+          "skills": [
+            "Support Skill: Abyssal Hunter",
+            "Ultimate: Dark Apocalypse"
+          ],
+          "tip": "Gunakan debuff sebelum burst rekan Umbra. Pengumpulan musuh memberi ruang bagi phantom Mistique dan clone Firenze untuk menyerang bersama.",
+          "damageTags": [
+            "skill"
+          ]
+        }
+      },
+      "build": {
+        "focus": "Support · debuff Umbra",
+        "stats": [
+          "ATK",
+          "Umbra DMG",
+          "Skill DMG"
+        ],
+        "potentials": [
+          "Abyssal Mark",
+          "Eclipse Imprint"
+        ],
+        "skills": [
+          "Support Skill: Abyssal Hunter",
+          "Ultimate: Dark Apocalypse"
+        ],
+        "tip": "Gunakan debuff sebelum burst rekan Umbra. Pengumpulan musuh memberi ruang bagi phantom Mistique dan clone Firenze untuk menyerang bersama.",
+        "damageTags": [
+          "skill"
+        ]
+      }
+    }
+  },
+  "trekker:147": {
+    "fingerprint": "e5a35fe6ecae0bfee0ac18e76967e31cc2c4a9666337b001014e107814d40ea8",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/trekkers/147",
+    "data": {
+      "damageTags": [
+        "basic",
+        "mark"
+      ],
+      "supportTags": [],
+      "summary": "Demonic Boombox memicu Gloom dan memberi buff ATK saat Caramel berada di dekatnya.",
+      "buildPosition": "main",
+      "builds": {
+        "main": {
+          "focus": "Main DPS · Auto Attack finale",
+          "stats": [
+            "Auto Attack DMG",
+            "Umbra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Baseline Finale",
+            "Cheer Sparkle"
+          ],
+          "skills": [
+            "Main Skill: Co-Performance",
+            "Ultimate: Melodic Seraphim"
+          ],
+          "tip": "Bertarung di dekat Boombox untuk mempertahankan buff. Pasokan Gloom membantu cabang Auto Attack finale ini.",
+          "damageTags": [
+            "basic",
+            "mark"
+          ]
+        },
+        "support": {
+          "focus": "Support DPS · bass sweep",
+          "damageTags": [
+            "skill",
+            "mark"
+          ],
+          "stats": [
+            "Skill DMG",
+            "Umbra DMG",
+            "ATK"
+          ],
+          "potentials": [
+            "Melody Return",
+            "Heavenly Dropbeat"
+          ],
+          "skills": [
+            "Support Skill: Melodic Sweep",
+            "Ultimate: Melodic Seraphim"
+          ],
+          "tip": "Fokuskan potential pada sapuan Support Skill. Build Auto Attack di dekat Demonic Boombox adalah jalur Caramel pada posisi main."
+        }
+      },
+      "build": {
+        "focus": "Main DPS · Auto Attack finale",
+        "stats": [
+          "Auto Attack DMG",
+          "Umbra DMG",
+          "ATK"
+        ],
+        "potentials": [
+          "Baseline Finale",
+          "Cheer Sparkle"
+        ],
+        "skills": [
+          "Main Skill: Co-Performance",
+          "Ultimate: Melodic Seraphim"
+        ],
+        "tip": "Bertarung di dekat Boombox untuk mempertahankan buff. Pasokan Gloom membantu cabang Auto Attack finale ini.",
+        "damageTags": [
+          "basic",
+          "mark"
+        ]
+      }
+    }
+  },
+  "disc:214028": {
+    "fingerprint": "f79b49948f267a49801902647e7ece42df42387400c31d8e29fbad8a96a2676f",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/214028",
+    "data": {
+      "tags": [
+        "basic",
+        "skill",
+        "ultimate",
+        "debuff"
+      ],
+      "summary": "Menaikkan Auto Attack dan Skill main Ventus; pemicu Ventus Mark menambah damage elemennya.",
+      "notes": "Harmony menambah manfaat Ultimate dan serangan berulang ke target yang sama. Memerlukan Note yang sesuai."
+    }
+  },
+  "disc:214002": {
+    "fingerprint": "52456e170c8cf9cbde0dc8a82aa632102183fde085c926ab8ff784773027a2aa",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/214002",
+    "data": {
+      "tags": [
+        "ultimate",
+        "debuff",
+        "buff"
+      ],
+      "summary": "Menaikkan Ventus DMG. Damage selain Auto Attack berpeluang memberi Laceration, meningkatkan damage Ventus yang diterima target.",
+      "notes": "Harmony menguatkan Ultimate pada target Laceration; bonus lain dipicu saat target Laceration dikalahkan."
+    }
+  },
+  "disc:214001": {
+    "fingerprint": "18fa94faabbd507f73567c92fefc292df7ba012e29deb6a966bf22a501449c4e",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/214001",
+    "data": {
+      "tags": [
+        "ultimate",
+        "buff",
+        "minion"
+      ],
+      "summary": "Menaikkan Ignis DMG. Main Ignis yang memakai Skill memberi ATK tim dan minion serta memperoleh pengurangan damage.",
+      "notes": "Harmony menguatkan Ultimate melawan elite selama Blazing Armor aktif. Pengurangan damage bukan shield HP."
+    }
+  },
+  "disc:214005": {
+    "fingerprint": "ef747a07b6e63e725bd9e62e9a47ad5c25b387073b878315f5861a87aae57d1e",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/214005",
+    "data": {
+      "tags": [
+        "basic",
+        "skill",
+        "buff"
+      ],
+      "summary": "Menaikkan Aqua DMG, dengan bonus tambahan melawan target Chill atau Frozen.",
+      "notes": "Harmony memberi bonus Auto Attack dan Skill setelah Ultimate Aqua, serta bonus Skill saat support Aqua berada di medan."
+    }
+  },
+  "disc:214006": {
+    "fingerprint": "83cb999c1a14777024d58083d05aecea6419391d6350759ce604feee7f32b38b",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/214006",
+    "data": {
+      "tags": [
+        "minion",
+        "ultimate",
+        "buff"
+      ],
+      "summary": "Menaikkan damage Umbra unit sekutu; Support Skill Umbra meningkatkan efek ini untuk sementara.",
+      "notes": "Harmony mendukung ATK, minion, dan Ultimate melalui summon serta pemicu Umbra Mark. Periksa kebutuhan Note."
+    }
+  },
+  "disc:214007": {
+    "fingerprint": "8b2a5b59b8217ddfa33c0ec628f844c8027c3363413ee96eebbe8a91d77d825a",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/214007",
+    "data": {
+      "tags": [
+        "skill",
+        "ultimate",
+        "basic",
+        "debuff"
+      ],
+      "summary": "Menaikkan Skill dan Ultimate Lux. Pemicu Lux Mark menguatkan Auto Attack serta Ultimate main Lux.",
+      "notes": "Harmony menambah ATK dan kerentanan Lux. Stun atau Resilience Break dapat memberi manfaat tambahan."
+    }
+  },
+  "disc:214003": {
+    "fingerprint": "3322b50790ce2fb469e437653fb54b76b211f59ba37a684242176959506174a4",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/214003",
+    "data": {
+      "tags": [
+        "basic",
+        "skill",
+        "ultimate",
+        "buff"
+      ],
+      "summary": "Lux Versatile mengumpulkan Light Particle saat di medan; tumpukan penuh memberi buff Auto Attack kepada main Lux.",
+      "notes": "Butuh Trekker Lux berperan Versatile dan waktu di medan. Harmony menambah bonus Lux, Skill, serta bonus Mark bersyarat."
+    }
+  },
+  "disc:214014": {
+    "fingerprint": "0121da0b507611387d67f92962bd4724b9f68d7a2473213ca3cf1cee0da3fd45",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/214014",
+    "data": {
+      "tags": [
+        "shield",
+        "skill",
+        "buff"
+      ],
+      "summary": "Menaikkan ATK Terra. Memicu Terra Mark memberi main Terra shield yang berskala dari Max HP.",
+      "notes": "Harmony memberi bonus Terra saat memperoleh shield dan Skill setelah Ultimate Terra jika shield masih aktif."
+    }
+  },
+  "disc:214037": {
+    "fingerprint": "832f5b3063211f1ef152048f0ad1e89c49beb85eaffbb1e559e5f58871387ce9",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/214037",
+    "data": {
+      "tags": [
+        "skill",
+        "debuff",
+        "buff"
+      ],
+      "summary": "Menaikkan Terra DMG; target yang Terra Mark-nya dipicu menerima lebih banyak damage Terra.",
+      "notes": "Harmony mendapat manfaat dari pemulihan HP Terra dan Skill support. Disc ini sendiri tidak memulihkan HP."
+    }
+  },
+  "disc:213008": {
+    "fingerprint": "d7f78de90614cfed92da6408205dcc2eb56b69d8a0323c29d6c03f43418c3e1f",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213008",
+    "data": {
+      "tags": [
+        "skill",
+        "buff"
+      ],
+      "summary": "Menaikkan Skill DMG Ventus; bonus hit tambahan bergantung pada HP main Trekker.",
+      "notes": "Harmony menguatkan Skill main Ventus ketika support Ventus berada di medan. Periksa ambang HP dan kebutuhan Note."
+    }
+  },
+  "disc:213007": {
+    "fingerprint": "e2cc45822f123e001371cf202d376b646be11073c628f0b540ef2c8130dea9e7",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213007",
+    "data": {
+      "tags": [
+        "ultimate",
+        "buff",
+        "minion"
+      ],
+      "summary": "Menaikkan ATK Ventus; penggunaan Skill memberi buff Ultimate DMG sementara.",
+      "notes": "Harmony memberi ATK untuk Trekker dan minion Ventus setelah Mark elemen tersebut dipicu. Memerlukan Note yang sesuai."
+    }
+  },
+  "disc:213004": {
+    "fingerprint": "85588a7a8dab59796d9d935d63ebdfb435ef04f03913fe9c3d5adadc6a0ae783",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213004",
+    "data": {
+      "tags": [
+        "skill",
+        "buff"
+      ],
+      "summary": "Menaikkan Skill DMG Ignis; bonus hit tambahan bergantung pada HP main Trekker.",
+      "notes": "Harmony menguatkan Skill main Ignis ketika support Ignis berada di medan. Periksa ambang HP dan kebutuhan Note."
+    }
+  },
+  "disc:213003": {
+    "fingerprint": "be037e9a0445cb856f2e80d8bc68614f5b045a7f1f4a28f01a765cfbf2c6a115",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213003",
+    "data": {
+      "tags": [
+        "ultimate",
+        "buff",
+        "minion"
+      ],
+      "summary": "Menaikkan ATK Ignis; penggunaan Skill memberi buff Ultimate DMG sementara.",
+      "notes": "Harmony memberi ATK untuk Trekker dan minion Ignis setelah Mark elemen tersebut dipicu. Memerlukan Note yang sesuai."
+    }
+  },
+  "disc:213010": {
+    "fingerprint": "ccf72b77bce5207ade96fff40a439f253585a292b601f90522c51fd645307e58",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213010",
+    "data": {
+      "tags": [
+        "skill",
+        "buff"
+      ],
+      "summary": "Menaikkan Skill DMG Aqua; bonus hit tambahan bergantung pada HP main Trekker.",
+      "notes": "Harmony menguatkan Skill main Aqua ketika support Aqua berada di medan. Periksa ambang HP dan kebutuhan Note."
+    }
+  },
+  "disc:213009": {
+    "fingerprint": "f3d21b124469a103ab3e233d98c9d16546b08705da418b6a08f09a4cbe47f30c",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213009",
+    "data": {
+      "tags": [
+        "ultimate",
+        "buff",
+        "minion"
+      ],
+      "summary": "Menaikkan ATK Aqua; penggunaan Skill memberi buff Ultimate DMG sementara.",
+      "notes": "Harmony memberi ATK untuk Trekker dan minion Aqua setelah Mark elemen tersebut dipicu. Memerlukan Note yang sesuai."
+    }
+  },
+  "disc:213012": {
+    "fingerprint": "df28bebbcd146526a20778fd7794411e8117a070e9215c0913cbd1e77beb1da0",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213012",
+    "data": {
+      "tags": [
+        "skill",
+        "buff"
+      ],
+      "summary": "Menaikkan Skill DMG Umbra; bonus hit tambahan bergantung pada HP main Trekker.",
+      "notes": "Harmony menguatkan Skill main Umbra ketika support Umbra berada di medan. Periksa ambang HP dan kebutuhan Note."
+    }
+  },
+  "disc:213011": {
+    "fingerprint": "31a23226b877837ffbe9243418c199a6ca469df82acb76518d1fe9410cefde98",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213011",
+    "data": {
+      "tags": [
+        "ultimate",
+        "buff",
+        "minion"
+      ],
+      "summary": "Menaikkan ATK Umbra; penggunaan Skill memberi buff Ultimate DMG sementara.",
+      "notes": "Harmony memberi ATK untuk Trekker dan minion Umbra setelah Mark elemen tersebut dipicu. Memerlukan Note yang sesuai."
+    }
+  },
+  "disc:213006": {
+    "fingerprint": "4e2779cf788d257779e031ac8c7e26bce443451c1c57a9863a720e0d2d5a7de7",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213006",
+    "data": {
+      "tags": [
+        "skill",
+        "buff"
+      ],
+      "summary": "Menaikkan Skill DMG Lux; bonus hit tambahan bergantung pada HP main Trekker.",
+      "notes": "Harmony menguatkan Skill main Lux ketika support Lux berada di medan. Periksa ambang HP dan kebutuhan Note."
+    }
+  },
+  "disc:213005": {
+    "fingerprint": "da9ec50e1201914af8129b438071c9b682cfa90a34df467cfe7ea282ce00c516",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213005",
+    "data": {
+      "tags": [
+        "ultimate",
+        "buff",
+        "minion"
+      ],
+      "summary": "Menaikkan ATK Lux; penggunaan Skill memberi buff Ultimate DMG sementara.",
+      "notes": "Harmony memberi ATK untuk Trekker dan minion Lux setelah Mark elemen tersebut dipicu. Memerlukan Note yang sesuai."
+    }
+  },
+  "disc:213014": {
+    "fingerprint": "f99dae209bf66e8c7154cbbef71a9546d4516f0ed6bda710a0a448884f6d7c98",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213014",
+    "data": {
+      "tags": [
+        "skill",
+        "buff"
+      ],
+      "summary": "Menaikkan Skill DMG Terra; bonus hit tambahan bergantung pada HP main Trekker.",
+      "notes": "Harmony menguatkan Skill main Terra ketika support Terra berada di medan. Periksa ambang HP dan kebutuhan Note."
+    }
+  },
+  "disc:213013": {
+    "fingerprint": "452bbe247f2176b1b62dded7e96da285336cc341829caf91c81fe4ff647ee525",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/213013",
+    "data": {
+      "tags": [
+        "ultimate",
+        "buff",
+        "minion"
+      ],
+      "summary": "Menaikkan ATK Terra; penggunaan Skill memberi buff Ultimate DMG sementara.",
+      "notes": "Harmony memberi ATK untuk Trekker dan minion Terra setelah Mark elemen tersebut dipicu. Memerlukan Note yang sesuai."
+    }
+  },
+  "disc:212007": {
+    "fingerprint": "f605f55effe8d36dce095aba043145b0ed49bbdb0d2660a06150d5e2b7253eee",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/212007",
+    "data": {
+      "tags": [
+        "buff"
+      ],
+      "summary": "Menaikkan damage Ventus tim.",
+      "notes": "Tanpa Harmony. Opsi sederhana saat koleksi Disc masih terbatas."
+    }
+  },
+  "disc:212005": {
+    "fingerprint": "66001695f046d9319d440187d4ba89396ef458062cf12de836a33f1c40e2cdfb",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/212005",
+    "data": {
+      "tags": [
+        "buff"
+      ],
+      "summary": "Menaikkan damage Ignis tim.",
+      "notes": "Tanpa Harmony. Opsi sederhana saat koleksi Disc masih terbatas."
+    }
+  },
+  "disc:212008": {
+    "fingerprint": "4546a575659d23488fe4c2748ca9a6010c2c854f5e712584e1772778227539ef",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/212008",
+    "data": {
+      "tags": [
+        "buff"
+      ],
+      "summary": "Menaikkan damage Aqua tim.",
+      "notes": "Tanpa Harmony. Opsi sederhana saat koleksi Disc masih terbatas."
+    }
+  },
+  "disc:212009": {
+    "fingerprint": "e9776da5b7b7e5d1b2d780f38303b64c5e06af50885077bc8569f8aaa96e9f35",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/212009",
+    "data": {
+      "tags": [
+        "buff"
+      ],
+      "summary": "Menaikkan damage Umbra tim.",
+      "notes": "Tanpa Harmony. Opsi sederhana saat koleksi Disc masih terbatas."
+    }
+  },
+  "disc:212006": {
+    "fingerprint": "b67f8aee38f49bac950c7513d6d42f51ed40d0bb7394334b8701672fe5db60a3",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/212006",
+    "data": {
+      "tags": [
+        "buff"
+      ],
+      "summary": "Menaikkan damage Lux tim.",
+      "notes": "Tanpa Harmony. Opsi sederhana saat koleksi Disc masih terbatas."
+    }
+  },
+  "disc:212010": {
+    "fingerprint": "521d37cab563e156fcb9f8f59d55dd0f0ee4e12a2e1f1bc94e8ccd42448324aa",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/212010",
+    "data": {
+      "tags": [
+        "buff"
+      ],
+      "summary": "Menaikkan damage Terra tim.",
+      "notes": "Tanpa Harmony. Opsi sederhana saat koleksi Disc masih terbatas."
+    }
+  },
+  "disc:211001": {
+    "fingerprint": "2356cfabf099dc2a16a68baee83c5d477c77db3c3c5c04ced4f1e9a23f9229ac",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/211001",
+    "data": {
+      "tags": [
+        "buff"
+      ],
+      "summary": "Menaikkan ATK main Trekker tanpa syarat elemen.",
+      "notes": "Tanpa Harmony. Pilihan umum saat belum memiliki Disc yang lebih sesuai.",
+      "effectTarget": "main"
+    }
+  },
+  "disc:211003": {
+    "fingerprint": "d3d7b11317211fc904e0106b98214ea71fb649c3858ecae0a0027ea360b541ca",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/211003",
+    "data": {
+      "tags": [
+        "skill"
+      ],
+      "summary": "Menaikkan Skill DMG main Trekker tanpa syarat elemen.",
+      "notes": "Tanpa Harmony. Fokus efeknya pada main Trekker.",
+      "effectTarget": "main"
+    }
+  },
+  "disc:211004": {
+    "fingerprint": "c9be85f8255cd5f4abae913cf39bcd0f61834aa386cd2b14c9dc786177f6addf",
+    "reviewedAt": "2026-09-11",
+    "source": "https://stella.ennead.cc/discs/211004",
+    "data": {
+      "tags": [
+        "skill"
+      ],
+      "summary": "Menaikkan Skill DMG Trekker pada posisi support.",
+      "notes": "Tanpa Harmony. Pilih jika kontribusi Skill dari support cukup besar.",
+      "effectTarget": "support"
+    }
+  }
+}
