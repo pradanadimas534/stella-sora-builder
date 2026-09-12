@@ -1,9 +1,9 @@
 {
   "version": 1,
   "revision": "live-0cf8911375ea5844",
-  "checkedAt": "2026-09-12T04:42:12.245Z",
-  "lastSuccessAt": "2026-09-12T04:42:12.245Z",
-  "nextCheckAt": "2026-09-12T10:42:12.245Z",
+  "checkedAt": "2026-09-12T10:54:48.060Z",
+  "lastSuccessAt": "2026-09-12T10:54:48.060Z",
+  "nextCheckAt": "2026-09-12T16:54:48.060Z",
   "catalog": {
     "trekkers": [
       {
@@ -5244,8 +5244,8 @@
     "trekker:160": "94a1f28512018d5547d033689be496e16300649da28eee6dc3e2c3bd0b849395",
     "disc:211001": "2356cfabf099dc2a16a68baee83c5d477c77db3c3c5c04ced4f1e9a23f9229ac",
     "disc:211002": "26b6d612da54d5a7f371c96548ed78ac2f036b4424f566fb6dc6332296e4b5ce",
-    "disc:211004": "c9be85f8255cd5f4abae913cf39bcd0f61834aa386cd2b14c9dc786177f6addf",
     "disc:211003": "d3d7b11317211fc904e0106b98214ea71fb649c3858ecae0a0027ea360b541ca",
+    "disc:211004": "c9be85f8255cd5f4abae913cf39bcd0f61834aa386cd2b14c9dc786177f6addf",
     "disc:211005": "f8b3ae6327bca2315d2e885a29ec1ee97c2695c06ded1ca97c0c9b3e1ef4fab3",
     "disc:211006": "868246b5174167a581cf1c8a22bb079bb496d9760f014aab68590c4c9d57e771",
     "disc:211007": "b16ac3d848810a9078ef960b3d845c36a1cea3dcaa43346855ae1b1484d4ac13",
@@ -5311,8 +5311,8 @@
     "disc:214024": "bf4046cfacefc5dc395056befacd02867221db267fa31b231e899e70b092eb13",
     "disc:214026": "adcf941b641a2f83d2a241cbb0c94e65fea1ae47b409bdeff8eedd6812018902",
     "disc:214027": "7667e6dbfe2bd6d4ff34132a6bceab154bf56c297331c40d5d3e80235a67e60c",
-    "disc:214028": "f79b49948f267a49801902647e7ece42df42387400c31d8e29fbad8a96a2676f",
     "disc:214029": "953a58286f2cb36ba2dde15dc5be484da7c77f6b46cc9b742cd3b2008f501229",
+    "disc:214028": "f79b49948f267a49801902647e7ece42df42387400c31d8e29fbad8a96a2676f",
     "disc:214030": "35a58b9b343a0c05d9fbe913aefa563210daf488cb206c7d644ae81beac2ff8e",
     "disc:214031": "130b07a7373cd459bf9ec3244b3a211fc00ad60cbf226f7f5ab74fb5079fec01",
     "disc:214032": "50587a77217e69ed8544cf613031fb496bb0d42e3f945546b9a45e7a8f16cf52",
@@ -5339,8 +5339,8 @@
     "disc:214055": "0cb168be0a671ba601497abf5c4a6690503bb97b9e2b1de993291538f307fbd5",
     "disc:214056": "3ec04e1afdc07b34b8d3eb428009f69937839e57f009a8bb863e422e548aab96",
     "disc:214057": "7ec4cb284166d8feb05539ced75a76ca516b4ea83550745e18c253acbbd9d837",
-    "disc:214059": "0d228a31bfa799ac5911c7a71d0416254e3b23eb43f568703882b2c0e73e2147",
     "disc:214058": "876a8210651a36f7087b63dca28e57ac69db32eda32b7fec965970a6e5acbfb4",
+    "disc:214059": "0d228a31bfa799ac5911c7a71d0416254e3b23eb43f568703882b2c0e73e2147",
     "disc:214060": "109e3b0a194df29fdd72082f2d231f85f36e8b22a4c3054554dc7899301873ae"
   },
   "changes": [],
@@ -5378,6 +5378,78 @@
     }
   ],
   "documents": [
+    {
+      "id": "353915f8a14cee4ab635",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "📝 Misti's Investigation Journal: Eleanor",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1we8k10/mistis_investigation_journal_eleanor/",
+      "publishedAt": "2026-09-12T10:01:54.000Z",
+      "discoveredAt": "2026-09-12T10:54:48.060Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
+    {
+      "id": "dc6d3b35cc247b4bfa53",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "✧Stella Sora Wallpaper | Eleanor",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1we7k4x/stella_sora_wallpaper_eleanor/",
+      "publishedAt": "2026-09-12T09:02:28.000Z",
+      "discoveredAt": "2026-09-12T10:54:48.060Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
+    {
+      "id": "01ad27f459c7ef8918fc",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "Eleanor and Mob (by @tentenchan2525)",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1we6uth/eleanor_and_mob_by_tentenchan2525/",
+      "publishedAt": "2026-09-12T08:20:24.000Z",
+      "discoveredAt": "2026-09-12T10:54:48.060Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
+    {
+      "id": "d4f2ed9c2eec1222cd0f",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "Recent event translation",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1we31fy/recent_event_translation/",
+      "publishedAt": "2026-09-12T04:51:08.000Z",
+      "discoveredAt": "2026-09-12T10:54:48.060Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
+    {
+      "id": "39907c0d5ff21aa50877",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "You're My Princess",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1we2p2n/youre_my_princess/",
+      "publishedAt": "2026-09-12T04:33:02.000Z",
+      "discoveredAt": "2026-09-12T10:54:48.060Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
+    {
+      "id": "187e4b68fdd35f051f1f",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "Returning, would like help with first properly built team",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1we0ppw/returning_would_like_help_with_first_properly/",
+      "publishedAt": "2026-09-12T02:54:09.000Z",
+      "discoveredAt": "2026-09-12T10:54:48.060Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
     {
       "id": "13881fe29f9b1105bb91",
       "sourceId": "reddit-new",
@@ -6465,8 +6537,8 @@
       "id": "stellabase",
       "label": "StellaBase · data game komunitas",
       "status": "ok",
-      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
-      "lastSuccessAt": "2026-09-12T04:42:12.245Z",
+      "lastAttemptAt": "2026-09-12T10:54:48.060Z",
+      "lastSuccessAt": "2026-09-12T10:54:48.060Z",
       "message": "0 perubahan kit terdeteksi; rekomendasi dihitung dari revisi live-0cf8911375ea5844.",
       "count": 139
     },
@@ -6474,8 +6546,8 @@
       "id": "official-news",
       "label": "Stella Sora · pengumuman resmi",
       "status": "ok",
-      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
-      "lastSuccessAt": "2026-09-12T04:42:12.245Z",
+      "lastAttemptAt": "2026-09-12T10:54:48.060Z",
+      "lastSuccessAt": "2026-09-12T10:54:48.060Z",
       "fingerprint": "86071d6b2f09247a8bdda4a7128020cebe45e012212c8b6bfd9c72571499c72c",
       "count": 50,
       "message": "50 pengumuman resmi dibaca dari API situs."
@@ -6484,17 +6556,17 @@
       "id": "mobi-chitose",
       "label": "Mobi.gg · Chitose build",
       "status": "ok",
-      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
-      "lastSuccessAt": "2026-09-12T04:42:12.245Z",
-      "fingerprint": "ce3e6bca1fd43f6197e21c69bf9793ca99484a218459406e329fc5fce392633c",
+      "lastAttemptAt": "2026-09-12T10:54:48.060Z",
+      "lastSuccessAt": "2026-09-12T10:54:48.060Z",
+      "fingerprint": "d0f5948175faa87f7c9652371b0c1f7c5739d7351d4b573a916d1e3305b98549",
       "contentChanged": true,
-      "message": "Halaman berhasil diperiksa."
+      "message": "Isi sumber berubah; klaim yang merujuk versi sebelumnya perlu divalidasi ulang."
     },
     {
       "id": "maygii-wraith",
       "label": "Maygii · panduan Wraith dengan perhitungan",
       "status": "error",
-      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
+      "lastAttemptAt": "2026-09-12T10:54:48.060Z",
       "lastSuccessAt": "2026-09-11T08:26:39.999Z",
       "fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "contentChanged": false,
@@ -6503,12 +6575,11 @@
     {
       "id": "reddit-new",
       "label": "r/StellaSora · kiriman baru",
-      "status": "error",
-      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
-      "lastSuccessAt": "2026-09-11T16:34:11.250Z",
-      "fingerprint": null,
-      "contentChanged": false,
-      "message": "Sumber tidak dapat diambil atau schema berubah. Data terakhir yang valid tetap digunakan."
+      "status": "ok",
+      "lastAttemptAt": "2026-09-12T10:54:48.060Z",
+      "lastSuccessAt": "2026-09-12T10:54:48.060Z",
+      "count": 25,
+      "message": "25 referensi ditemukan; isi perlu ditinjau sebelum menjadi bukti rekomendasi."
     },
     {
       "id": "youtube",
