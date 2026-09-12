@@ -1,9 +1,9 @@
 {
   "version": 1,
   "revision": "live-0cf8911375ea5844",
-  "checkedAt": "2026-09-11T21:02:01.896Z",
-  "lastSuccessAt": "2026-09-11T21:02:01.896Z",
-  "nextCheckAt": "2026-09-12T03:02:01.896Z",
+  "checkedAt": "2026-09-12T04:42:12.245Z",
+  "lastSuccessAt": "2026-09-12T04:42:12.245Z",
+  "nextCheckAt": "2026-09-12T10:42:12.245Z",
   "catalog": {
     "trekkers": [
       {
@@ -5184,7 +5184,7 @@
     ]
   },
   "meta": {
-    "checkedAt": "2026-09-11",
+    "checkedAt": "2026-09-12",
     "label": "Snapshot hasil sinkronisasi",
     "note": "39 Trekker dan 100 Disc dari database komunitas. Entri baru atau berubah memakai analisis awal kit; build komunitas harus sesuai revisi data.",
     "sources": [
@@ -5244,8 +5244,8 @@
     "trekker:160": "94a1f28512018d5547d033689be496e16300649da28eee6dc3e2c3bd0b849395",
     "disc:211001": "2356cfabf099dc2a16a68baee83c5d477c77db3c3c5c04ced4f1e9a23f9229ac",
     "disc:211002": "26b6d612da54d5a7f371c96548ed78ac2f036b4424f566fb6dc6332296e4b5ce",
-    "disc:211003": "d3d7b11317211fc904e0106b98214ea71fb649c3858ecae0a0027ea360b541ca",
     "disc:211004": "c9be85f8255cd5f4abae913cf39bcd0f61834aa386cd2b14c9dc786177f6addf",
+    "disc:211003": "d3d7b11317211fc904e0106b98214ea71fb649c3858ecae0a0027ea360b541ca",
     "disc:211005": "f8b3ae6327bca2315d2e885a29ec1ee97c2695c06ded1ca97c0c9b3e1ef4fab3",
     "disc:211006": "868246b5174167a581cf1c8a22bb079bb496d9760f014aab68590c4c9d57e771",
     "disc:211007": "b16ac3d848810a9078ef960b3d845c36a1cea3dcaa43346855ae1b1484d4ac13",
@@ -5286,8 +5286,8 @@
     "disc:213025": "abf5b8bec4d3fd0903f4b32389a690b2d8963f0d445d0f4455b3d1cbb0265645",
     "disc:213026": "e9302899b3848ab3a0c991987d927a07291107cf458e0666a6c23adff882cde2",
     "disc:214001": "18fa94faabbd507f73567c92fefc292df7ba012e29deb6a966bf22a501449c4e",
-    "disc:214003": "3322b50790ce2fb469e437653fb54b76b211f59ba37a684242176959506174a4",
     "disc:214002": "52456e170c8cf9cbde0dc8a82aa632102183fde085c926ab8ff784773027a2aa",
+    "disc:214003": "3322b50790ce2fb469e437653fb54b76b211f59ba37a684242176959506174a4",
     "disc:214004": "d695e6fb832157f4bf41692e8ed47ab99eca24e050203832df892e239010c516",
     "disc:214005": "ef747a07b6e63e725bd9e62e9a47ad5c25b387073b878315f5861a87aae57d1e",
     "disc:214006": "83cb999c1a14777024d58083d05aecea6419391d6350759ce604feee7f32b38b",
@@ -5339,8 +5339,8 @@
     "disc:214055": "0cb168be0a671ba601497abf5c4a6690503bb97b9e2b1de993291538f307fbd5",
     "disc:214056": "3ec04e1afdc07b34b8d3eb428009f69937839e57f009a8bb863e422e548aab96",
     "disc:214057": "7ec4cb284166d8feb05539ced75a76ca516b4ea83550745e18c253acbbd9d837",
-    "disc:214058": "876a8210651a36f7087b63dca28e57ac69db32eda32b7fec965970a6e5acbfb4",
     "disc:214059": "0d228a31bfa799ac5911c7a71d0416254e3b23eb43f568703882b2c0e73e2147",
+    "disc:214058": "876a8210651a36f7087b63dca28e57ac69db32eda32b7fec965970a6e5acbfb4",
     "disc:214060": "109e3b0a194df29fdd72082f2d231f85f36e8b22a4c3054554dc7899301873ae"
   },
   "changes": [],
@@ -6465,8 +6465,8 @@
       "id": "stellabase",
       "label": "StellaBase · data game komunitas",
       "status": "ok",
-      "lastAttemptAt": "2026-09-11T21:02:01.896Z",
-      "lastSuccessAt": "2026-09-11T21:02:01.896Z",
+      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
+      "lastSuccessAt": "2026-09-12T04:42:12.245Z",
       "message": "0 perubahan kit terdeteksi; rekomendasi dihitung dari revisi live-0cf8911375ea5844.",
       "count": 139
     },
@@ -6474,8 +6474,8 @@
       "id": "official-news",
       "label": "Stella Sora · pengumuman resmi",
       "status": "ok",
-      "lastAttemptAt": "2026-09-11T21:02:01.896Z",
-      "lastSuccessAt": "2026-09-11T21:02:01.896Z",
+      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
+      "lastSuccessAt": "2026-09-12T04:42:12.245Z",
       "fingerprint": "86071d6b2f09247a8bdda4a7128020cebe45e012212c8b6bfd9c72571499c72c",
       "count": 50,
       "message": "50 pengumuman resmi dibaca dari API situs."
@@ -6484,17 +6484,17 @@
       "id": "mobi-chitose",
       "label": "Mobi.gg · Chitose build",
       "status": "ok",
-      "lastAttemptAt": "2026-09-11T21:02:01.896Z",
-      "lastSuccessAt": "2026-09-11T21:02:01.896Z",
+      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
+      "lastSuccessAt": "2026-09-12T04:42:12.245Z",
       "fingerprint": "ce3e6bca1fd43f6197e21c69bf9793ca99484a218459406e329fc5fce392633c",
       "contentChanged": true,
-      "message": "Isi sumber berubah; klaim yang merujuk versi sebelumnya perlu divalidasi ulang."
+      "message": "Halaman berhasil diperiksa."
     },
     {
       "id": "maygii-wraith",
       "label": "Maygii · panduan Wraith dengan perhitungan",
       "status": "error",
-      "lastAttemptAt": "2026-09-11T21:02:01.896Z",
+      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
       "lastSuccessAt": "2026-09-11T08:26:39.999Z",
       "fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "contentChanged": false,
@@ -6504,7 +6504,7 @@
       "id": "reddit-new",
       "label": "r/StellaSora · kiriman baru",
       "status": "error",
-      "lastAttemptAt": "2026-09-11T21:02:01.896Z",
+      "lastAttemptAt": "2026-09-12T04:42:12.245Z",
       "lastSuccessAt": "2026-09-11T16:34:11.250Z",
       "fingerprint": null,
       "contentChanged": false,
