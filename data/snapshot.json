@@ -1,9 +1,9 @@
 {
   "version": 1,
   "revision": "live-0cf8911375ea5844",
-  "checkedAt": "2026-09-14T05:04:00.552Z",
-  "lastSuccessAt": "2026-09-14T05:04:00.552Z",
-  "nextCheckAt": "2026-09-14T11:04:00.552Z",
+  "checkedAt": "2026-09-14T12:58:17.984Z",
+  "lastSuccessAt": "2026-09-14T12:58:17.984Z",
+  "nextCheckAt": "2026-09-14T18:58:17.984Z",
   "catalog": {
     "trekkers": [
       {
@@ -5203,9 +5203,9 @@
     ]
   },
   "rawHashes": {
-    "trekker:107": "4b817108931057f6f433c810d5ca7d35816889efa3860ef33cabc021e0c49e88",
     "trekker:103": "b27f53f82aeeac3b19df315754eb0d0c502f976107a01e05fc19a6284a3bb4ab",
     "trekker:108": "529215f0c7b67cd1a2c3a93b6c0c2bf6fb19e30fdb00782c4ce4ab1b31564c8a",
+    "trekker:107": "4b817108931057f6f433c810d5ca7d35816889efa3860ef33cabc021e0c49e88",
     "trekker:110": "9892e3650d7a9a2058a1c1955657a36db39c061c94e44a853d85a5ded7e762aa",
     "trekker:111": "6f71da7de94cf8773d711381bd202bab2c795a77e4ce07e6ad86a79c973689c2",
     "trekker:112": "6bc5f44f0291fadd4cc91eda62afd281e73e8741bf063f642720c22dfdaed443",
@@ -5255,15 +5255,15 @@
     "disc:212003": "b8a09877778e49afdd4d13f726a5b27f78b4740462423c4bc93fd5b41be9b368",
     "disc:212005": "66001695f046d9319d440187d4ba89396ef458062cf12de836a33f1c40e2cdfb",
     "disc:212006": "b67f8aee38f49bac950c7513d6d42f51ed40d0bb7394334b8701672fe5db60a3",
-    "disc:212007": "f605f55effe8d36dce095aba043145b0ed49bbdb0d2660a06150d5e2b7253eee",
     "disc:212008": "4546a575659d23488fe4c2748ca9a6010c2c854f5e712584e1772778227539ef",
+    "disc:212007": "f605f55effe8d36dce095aba043145b0ed49bbdb0d2660a06150d5e2b7253eee",
     "disc:212009": "e9776da5b7b7e5d1b2d780f38303b64c5e06af50885077bc8569f8aaa96e9f35",
     "disc:212010": "521d37cab563e156fcb9f8f59d55dd0f0ee4e12a2e1f1bc94e8ccd42448324aa",
     "disc:213001": "bee7341f1851fc9c9cd14673fe75a7e63bcc54a8fed847fe751be31ac7d7c252",
     "disc:213002": "d200ee177d387a8947c926f356cd5919c56e4dc39c33ef37132a9d8fdfa75b47",
     "disc:213003": "be037e9a0445cb856f2e80d8bc68614f5b045a7f1f4a28f01a765cfbf2c6a115",
-    "disc:213004": "85588a7a8dab59796d9d935d63ebdfb435ef04f03913fe9c3d5adadc6a0ae783",
     "disc:213005": "da9ec50e1201914af8129b438071c9b682cfa90a34df467cfe7ea282ce00c516",
+    "disc:213004": "85588a7a8dab59796d9d935d63ebdfb435ef04f03913fe9c3d5adadc6a0ae783",
     "disc:213006": "4e2779cf788d257779e031ac8c7e26bce443451c1c57a9863a720e0d2d5a7de7",
     "disc:213007": "e2cc45822f123e001371cf202d376b646be11073c628f0b540ef2c8130dea9e7",
     "disc:213008": "d7f78de90614cfed92da6408205dcc2eb56b69d8a0323c29d6c03f43418c3e1f",
@@ -5289,8 +5289,8 @@
     "disc:214002": "52456e170c8cf9cbde0dc8a82aa632102183fde085c926ab8ff784773027a2aa",
     "disc:214003": "3322b50790ce2fb469e437653fb54b76b211f59ba37a684242176959506174a4",
     "disc:214004": "d695e6fb832157f4bf41692e8ed47ab99eca24e050203832df892e239010c516",
-    "disc:214005": "ef747a07b6e63e725bd9e62e9a47ad5c25b387073b878315f5861a87aae57d1e",
     "disc:214006": "83cb999c1a14777024d58083d05aecea6419391d6350759ce604feee7f32b38b",
+    "disc:214005": "ef747a07b6e63e725bd9e62e9a47ad5c25b387073b878315f5861a87aae57d1e",
     "disc:214007": "8b2a5b59b8217ddfa33c0ec628f844c8027c3363413ee96eebbe8a91d77d825a",
     "disc:214008": "52b64c59891fcb3a2f7b6149d96bf2655a2459d5ca0197e27e800797c11fccc4",
     "disc:214009": "454e93526d5dd098d071fe408a19d7e835fc771a7fac721bac068623599934b5",
@@ -5306,8 +5306,8 @@
     "disc:214019": "6cfacf1999e150bc27534181b4a78be5f4ab108b36471d647c82d4fca0def13a",
     "disc:214020": "4af872de7cfbadf442d400ebe94c9e260776ce4e52d101f585ee1dded9ff5de2",
     "disc:214021": "eacf4f16200ac3812b24c4659d5fb186380bf2a208ffb325068d50959c728e59",
-    "disc:214023": "55fc16d7c7cb68287a29e54ef26101bfbf73095cd174c6598805d2962c117d06",
     "disc:214022": "c09a99725631a7b4d98e9aeabdd97114671b12233fe4a73372bb064e4e0697fd",
+    "disc:214023": "55fc16d7c7cb68287a29e54ef26101bfbf73095cd174c6598805d2962c117d06",
     "disc:214024": "bf4046cfacefc5dc395056befacd02867221db267fa31b231e899e70b092eb13",
     "disc:214026": "adcf941b641a2f83d2a241cbb0c94e65fea1ae47b409bdeff8eedd6812018902",
     "disc:214027": "7667e6dbfe2bd6d4ff34132a6bceab154bf56c297331c40d5d3e80235a67e60c",
@@ -5336,8 +5336,8 @@
     "disc:214052": "3943b20c7dd98c08c70c80c13307acffef82faa8107c10f255131e566dde8785",
     "disc:214053": "fd3ab7ad8a549a66b0d2908dc26ecbc215619a3572ad81d128487cf8867865d3",
     "disc:214054": "163f1cfdc1623b337494d0de3eda25f4025b8c7282a5dd1c4686f6857baab565",
-    "disc:214055": "0cb168be0a671ba601497abf5c4a6690503bb97b9e2b1de993291538f307fbd5",
     "disc:214056": "3ec04e1afdc07b34b8d3eb428009f69937839e57f009a8bb863e422e548aab96",
+    "disc:214055": "0cb168be0a671ba601497abf5c4a6690503bb97b9e2b1de993291538f307fbd5",
     "disc:214057": "7ec4cb284166d8feb05539ced75a76ca516b4ea83550745e18c253acbbd9d837",
     "disc:214058": "876a8210651a36f7087b63dca28e57ac69db32eda32b7fec965970a6e5acbfb4",
     "disc:214059": "0d228a31bfa799ac5911c7a71d0416254e3b23eb43f568703882b2c0e73e2147",
@@ -5378,6 +5378,54 @@
     }
   ],
   "documents": [
+    {
+      "id": "a1434f2aa51938a743b4",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "\"Se-n-pa-i~\"",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1wfxjul/senpai/",
+      "publishedAt": "2026-09-14T08:22:54.000Z",
+      "discoveredAt": "2026-09-14T12:58:17.984Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
+    {
+      "id": "2067126c33c3cc9b01c4",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "✧Nova Doodles | Stay Prepared",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1wfrza2/nova_doodles_stay_prepared/",
+      "publishedAt": "2026-09-14T03:16:49.000Z",
+      "discoveredAt": "2026-09-14T12:58:17.984Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
+    {
+      "id": "9ae665829a1be016b46d",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "[Official Japanese shorts] Boss, Let's Do Our Best This Week Too. #23 (EN/ID sub)",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1wfon5c/official_japanese_shorts_boss_lets_do_our_best/",
+      "publishedAt": "2026-09-14T00:38:33.000Z",
+      "discoveredAt": "2026-09-14T12:58:17.984Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
+    {
+      "id": "f6234ec65569fb4fcbdd",
+      "sourceId": "reddit-new",
+      "sourceLabel": "r/StellaSora · kiriman baru",
+      "kind": "community",
+      "title": "Boss, let's do our best this week too #23",
+      "url": "https://www.reddit.com/r/StellaSora/comments/1wfmh5s/boss_lets_do_our_best_this_week_too_23/",
+      "publishedAt": "2026-09-13T23:00:46.000Z",
+      "discoveredAt": "2026-09-14T12:58:17.984Z",
+      "status": "discovered",
+      "note": "Ditemukan melalui feed; belum menjadi bukti build tervalidasi."
+    },
     {
       "id": "9a3770bac58cb6f90ccf",
       "sourceId": "reddit-new",
@@ -6621,36 +6669,36 @@
       "id": "stellabase",
       "label": "StellaBase · data game komunitas",
       "status": "ok",
-      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
-      "lastSuccessAt": "2026-09-14T05:04:00.552Z",
+      "lastAttemptAt": "2026-09-14T12:58:17.984Z",
+      "lastSuccessAt": "2026-09-14T12:58:17.984Z",
       "message": "0 perubahan kit terdeteksi; rekomendasi dihitung dari revisi live-0cf8911375ea5844.",
       "count": 139
     },
     {
       "id": "official-news",
       "label": "Stella Sora · pengumuman resmi",
-      "status": "error",
-      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
-      "lastSuccessAt": "2026-09-13T20:54:34.499Z",
+      "status": "ok",
+      "lastAttemptAt": "2026-09-14T12:58:17.984Z",
+      "lastSuccessAt": "2026-09-14T12:58:17.984Z",
       "fingerprint": "86071d6b2f09247a8bdda4a7128020cebe45e012212c8b6bfd9c72571499c72c",
-      "contentChanged": false,
-      "message": "Sumber tidak dapat diambil atau schema berubah. Data terakhir yang valid tetap digunakan."
+      "count": 50,
+      "message": "50 pengumuman resmi dibaca dari API situs."
     },
     {
       "id": "mobi-chitose",
       "label": "Mobi.gg · Chitose build",
       "status": "ok",
-      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
-      "lastSuccessAt": "2026-09-14T05:04:00.552Z",
-      "fingerprint": "57af94fe51a3ffcd987b07f7742adab59bdfbf2fc54fb5dd5588e9ebf8524f3c",
+      "lastAttemptAt": "2026-09-14T12:58:17.984Z",
+      "lastSuccessAt": "2026-09-14T12:58:17.984Z",
+      "fingerprint": "f9bd7f55dd97a992f2eb60df20b5bac8fa8cec63ec69f2c9411966e009db8180",
       "contentChanged": true,
-      "message": "Halaman berhasil diperiksa."
+      "message": "Isi sumber berubah; klaim yang merujuk versi sebelumnya perlu divalidasi ulang."
     },
     {
       "id": "maygii-wraith",
       "label": "Maygii · panduan Wraith dengan perhitungan",
       "status": "error",
-      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
+      "lastAttemptAt": "2026-09-14T12:58:17.984Z",
       "lastSuccessAt": "2026-09-11T08:26:39.999Z",
       "fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "contentChanged": false,
@@ -6659,12 +6707,11 @@
     {
       "id": "reddit-new",
       "label": "r/StellaSora · kiriman baru",
-      "status": "error",
-      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
-      "lastSuccessAt": "2026-09-13T20:54:34.499Z",
-      "fingerprint": null,
-      "contentChanged": false,
-      "message": "Sumber tidak dapat diambil atau schema berubah. Data terakhir yang valid tetap digunakan."
+      "status": "ok",
+      "lastAttemptAt": "2026-09-14T12:58:17.984Z",
+      "lastSuccessAt": "2026-09-14T12:58:17.984Z",
+      "count": 25,
+      "message": "25 referensi ditemukan; isi perlu ditinjau sebelum menjadi bukti rekomendasi."
     },
     {
       "id": "youtube",
