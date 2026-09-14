@@ -1,9 +1,9 @@
 {
   "version": 1,
   "revision": "live-0cf8911375ea5844",
-  "checkedAt": "2026-09-13T20:54:34.499Z",
-  "lastSuccessAt": "2026-09-13T20:54:34.499Z",
-  "nextCheckAt": "2026-09-14T02:54:34.499Z",
+  "checkedAt": "2026-09-14T05:04:00.552Z",
+  "lastSuccessAt": "2026-09-14T05:04:00.552Z",
+  "nextCheckAt": "2026-09-14T11:04:00.552Z",
   "catalog": {
     "trekkers": [
       {
@@ -5184,7 +5184,7 @@
     ]
   },
   "meta": {
-    "checkedAt": "2026-09-13",
+    "checkedAt": "2026-09-14",
     "label": "Snapshot hasil sinkronisasi",
     "note": "39 Trekker dan 100 Disc dari database komunitas. Entri baru atau berubah memakai analisis awal kit; build komunitas harus sesuai revisi data.",
     "sources": [
@@ -5234,16 +5234,16 @@
     "trekker:144": "60724dfa2cb38643d1d8747a766cadc7c6aefa26f69cfaad0efcf4c6365e92bb",
     "trekker:145": "47864fa2a0a9bfdc0b2e7485e9be379042fa31d73f8f741bdab58093831914f4",
     "trekker:147": "e5a35fe6ecae0bfee0ac18e76967e31cc2c4a9666337b001014e107814d40ea8",
-    "trekker:150": "e55d973edf3ee8943ce091d1907d165da9e2459dee2e00030f1e53df5be906b3",
     "trekker:149": "cfa81c3844f6919e53ec2d66b02427a34b9c9b0afe7c3541ff8c00438d99e320",
+    "trekker:150": "e55d973edf3ee8943ce091d1907d165da9e2459dee2e00030f1e53df5be906b3",
     "trekker:155": "9e07d48b1badc7fbd06939f096d80395fd9924f674ea11c69ac2645d3333a83e",
     "trekker:156": "284a6e5c048ed2658f46a01024e832982438e0ad779a213a89a9efe1d2474f13",
     "trekker:157": "554eb7c08a3b7625ce006a959526c6866d6905c53ec2874e862dfd56bb6e26e8",
     "trekker:158": "e2814b6c2f0e5a20b6bd6a4487af7d0baf9d0259c37a301bf1d2730a3386ad85",
     "trekker:159": "8980c0d41477c595066341eaadaed3ae358415e8276c71a6c231229c434751ce",
     "trekker:160": "94a1f28512018d5547d033689be496e16300649da28eee6dc3e2c3bd0b849395",
-    "disc:211002": "26b6d612da54d5a7f371c96548ed78ac2f036b4424f566fb6dc6332296e4b5ce",
     "disc:211001": "2356cfabf099dc2a16a68baee83c5d477c77db3c3c5c04ced4f1e9a23f9229ac",
+    "disc:211002": "26b6d612da54d5a7f371c96548ed78ac2f036b4424f566fb6dc6332296e4b5ce",
     "disc:211003": "d3d7b11317211fc904e0106b98214ea71fb649c3858ecae0a0027ea360b541ca",
     "disc:211004": "c9be85f8255cd5f4abae913cf39bcd0f61834aa386cd2b14c9dc786177f6addf",
     "disc:211005": "f8b3ae6327bca2315d2e885a29ec1ee97c2695c06ded1ca97c0c9b3e1ef4fab3",
@@ -5301,13 +5301,13 @@
     "disc:214014": "0121da0b507611387d67f92962bd4724b9f68d7a2473213ca3cf1cee0da3fd45",
     "disc:214015": "aca0b39821769693efee6130ab4814eb164e2aff06f1191fdc63df6724062f7d",
     "disc:214016": "72220ca3f330368f92b2bcba16c7e8f0d153cf09194de09a24ccec7f0baa3292",
-    "disc:214018": "00ace72ca8bda17aaf8b070e6d186eebf962931e94826bd1e0fb1f17d4de4caa",
     "disc:214017": "7d4f71c01d64e91681d5b5349f424bef3bbbc17e938079f7f087528dcaa5b18e",
+    "disc:214018": "00ace72ca8bda17aaf8b070e6d186eebf962931e94826bd1e0fb1f17d4de4caa",
     "disc:214019": "6cfacf1999e150bc27534181b4a78be5f4ab108b36471d647c82d4fca0def13a",
     "disc:214020": "4af872de7cfbadf442d400ebe94c9e260776ce4e52d101f585ee1dded9ff5de2",
     "disc:214021": "eacf4f16200ac3812b24c4659d5fb186380bf2a208ffb325068d50959c728e59",
-    "disc:214022": "c09a99725631a7b4d98e9aeabdd97114671b12233fe4a73372bb064e4e0697fd",
     "disc:214023": "55fc16d7c7cb68287a29e54ef26101bfbf73095cd174c6598805d2962c117d06",
+    "disc:214022": "c09a99725631a7b4d98e9aeabdd97114671b12233fe4a73372bb064e4e0697fd",
     "disc:214024": "bf4046cfacefc5dc395056befacd02867221db267fa31b231e899e70b092eb13",
     "disc:214026": "adcf941b641a2f83d2a241cbb0c94e65fea1ae47b409bdeff8eedd6812018902",
     "disc:214027": "7667e6dbfe2bd6d4ff34132a6bceab154bf56c297331c40d5d3e80235a67e60c",
@@ -6621,36 +6621,36 @@
       "id": "stellabase",
       "label": "StellaBase · data game komunitas",
       "status": "ok",
-      "lastAttemptAt": "2026-09-13T20:54:34.499Z",
-      "lastSuccessAt": "2026-09-13T20:54:34.499Z",
+      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
+      "lastSuccessAt": "2026-09-14T05:04:00.552Z",
       "message": "0 perubahan kit terdeteksi; rekomendasi dihitung dari revisi live-0cf8911375ea5844.",
       "count": 139
     },
     {
       "id": "official-news",
       "label": "Stella Sora · pengumuman resmi",
-      "status": "ok",
-      "lastAttemptAt": "2026-09-13T20:54:34.499Z",
+      "status": "error",
+      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
       "lastSuccessAt": "2026-09-13T20:54:34.499Z",
       "fingerprint": "86071d6b2f09247a8bdda4a7128020cebe45e012212c8b6bfd9c72571499c72c",
-      "count": 50,
-      "message": "50 pengumuman resmi dibaca dari API situs."
+      "contentChanged": false,
+      "message": "Sumber tidak dapat diambil atau schema berubah. Data terakhir yang valid tetap digunakan."
     },
     {
       "id": "mobi-chitose",
       "label": "Mobi.gg · Chitose build",
       "status": "ok",
-      "lastAttemptAt": "2026-09-13T20:54:34.499Z",
-      "lastSuccessAt": "2026-09-13T20:54:34.499Z",
+      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
+      "lastSuccessAt": "2026-09-14T05:04:00.552Z",
       "fingerprint": "57af94fe51a3ffcd987b07f7742adab59bdfbf2fc54fb5dd5588e9ebf8524f3c",
       "contentChanged": true,
-      "message": "Isi sumber berubah; klaim yang merujuk versi sebelumnya perlu divalidasi ulang."
+      "message": "Halaman berhasil diperiksa."
     },
     {
       "id": "maygii-wraith",
       "label": "Maygii · panduan Wraith dengan perhitungan",
       "status": "error",
-      "lastAttemptAt": "2026-09-13T20:54:34.499Z",
+      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
       "lastSuccessAt": "2026-09-11T08:26:39.999Z",
       "fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "contentChanged": false,
@@ -6659,11 +6659,12 @@
     {
       "id": "reddit-new",
       "label": "r/StellaSora · kiriman baru",
-      "status": "ok",
-      "lastAttemptAt": "2026-09-13T20:54:34.499Z",
+      "status": "error",
+      "lastAttemptAt": "2026-09-14T05:04:00.552Z",
       "lastSuccessAt": "2026-09-13T20:54:34.499Z",
-      "count": 25,
-      "message": "25 referensi ditemukan; isi perlu ditinjau sebelum menjadi bukti rekomendasi."
+      "fingerprint": null,
+      "contentChanged": false,
+      "message": "Sumber tidak dapat diambil atau schema berubah. Data terakhir yang valid tetap digunakan."
     },
     {
       "id": "youtube",
