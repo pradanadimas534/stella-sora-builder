@@ -1,9 +1,9 @@
 {
   "version": 1,
   "revision": "live-0cf8911375ea5844",
-  "checkedAt": "2026-09-14T21:53:17.222Z",
-  "lastSuccessAt": "2026-09-14T21:53:17.222Z",
-  "nextCheckAt": "2026-09-15T03:53:17.222Z",
+  "checkedAt": "2026-09-15T05:00:13.867Z",
+  "lastSuccessAt": "2026-09-15T05:00:13.867Z",
+  "nextCheckAt": "2026-09-15T11:00:13.867Z",
   "catalog": {
     "trekkers": [
       {
@@ -5184,7 +5184,7 @@
     ]
   },
   "meta": {
-    "checkedAt": "2026-09-14",
+    "checkedAt": "2026-09-15",
     "label": "Snapshot hasil sinkronisasi",
     "note": "39 Trekker dan 100 Disc dari database komunitas. Entri baru atau berubah memakai analisis awal kit; build komunitas harus sesuai revisi data.",
     "sources": [
@@ -5222,8 +5222,8 @@
     "trekker:126": "60890170b3f03e1a1156420b63834d44baff27c3fea81a17792d41ef60eb783e",
     "trekker:127": "2758d13d6722ead0930d56da340cd5cb351958e5f1dfb045bd265e3f23d30150",
     "trekker:130": "d0d80a4f2d2c7309c117fd5944c13a03f574850ca67ccfc23deb5ea0afd74b70",
-    "trekker:133": "662aeb491d39b810a40d64ec4a514051aa0961450fb653d20d259cb5f292bc79",
     "trekker:132": "a6f0216164f17197c13bd20e7f38a89036723d57d5bd43a1f52597de951e0535",
+    "trekker:133": "662aeb491d39b810a40d64ec4a514051aa0961450fb653d20d259cb5f292bc79",
     "trekker:134": "ec1fce7b3b1bb553337117961ec06273866bc9b20cefadee367f8046433dbaea",
     "trekker:135": "73a2ac794e8b9af6b53f4a98c581f3e229dfce5c7cad90a9192be984d6297b91",
     "trekker:137": "c073b6e32c44c94e4a1d2aa6542ea2134d6921156e4f611e104b668a5ceca3df",
@@ -5254,10 +5254,10 @@
     "disc:212002": "e00840571a6e443d09d589e0f65f5bb9c503332e66981dae7ba18acdc46cba7e",
     "disc:212003": "b8a09877778e49afdd4d13f726a5b27f78b4740462423c4bc93fd5b41be9b368",
     "disc:212005": "66001695f046d9319d440187d4ba89396ef458062cf12de836a33f1c40e2cdfb",
-    "disc:212006": "b67f8aee38f49bac950c7513d6d42f51ed40d0bb7394334b8701672fe5db60a3",
     "disc:212007": "f605f55effe8d36dce095aba043145b0ed49bbdb0d2660a06150d5e2b7253eee",
-    "disc:212008": "4546a575659d23488fe4c2748ca9a6010c2c854f5e712584e1772778227539ef",
+    "disc:212006": "b67f8aee38f49bac950c7513d6d42f51ed40d0bb7394334b8701672fe5db60a3",
     "disc:212009": "e9776da5b7b7e5d1b2d780f38303b64c5e06af50885077bc8569f8aaa96e9f35",
+    "disc:212008": "4546a575659d23488fe4c2748ca9a6010c2c854f5e712584e1772778227539ef",
     "disc:212010": "521d37cab563e156fcb9f8f59d55dd0f0ee4e12a2e1f1bc94e8ccd42448324aa",
     "disc:213001": "bee7341f1851fc9c9cd14673fe75a7e63bcc54a8fed847fe751be31ac7d7c252",
     "disc:213002": "d200ee177d387a8947c926f356cd5919c56e4dc39c33ef37132a9d8fdfa75b47",
@@ -5271,8 +5271,8 @@
     "disc:213010": "ccf72b77bce5207ade96fff40a439f253585a292b601f90522c51fd645307e58",
     "disc:213011": "31a23226b877837ffbe9243418c199a6ca469df82acb76518d1fe9410cefde98",
     "disc:213012": "df28bebbcd146526a20778fd7794411e8117a070e9215c0913cbd1e77beb1da0",
-    "disc:213014": "f99dae209bf66e8c7154cbbef71a9546d4516f0ed6bda710a0a448884f6d7c98",
     "disc:213013": "452bbe247f2176b1b62dded7e96da285336cc341829caf91c81fe4ff647ee525",
+    "disc:213014": "f99dae209bf66e8c7154cbbef71a9546d4516f0ed6bda710a0a448884f6d7c98",
     "disc:213015": "7a719bca24b0cc57f15a2554c690be24a69edf1899a41606f06bd2028f3ccd46",
     "disc:213016": "2085df860ba2a9084872592588bd482d6eec2eb398ac122481d755ef513927ee",
     "disc:213017": "7c418334c46d035d784ecf6ac0660ba04c5de733d1580b52e45fde72ae884e8c",
@@ -5324,8 +5324,8 @@
     "disc:214040": "dbb41adf539a0234074e40054a9ed038c567d52775aee655e1c5b33fd1986386",
     "disc:214041": "08a0c7e2c86904cc6305b62c1e3d8fbe0dccefffc8db664e2ad0d135775267f9",
     "disc:214042": "f31be15db2c67863da27262380ee6fccd8050e4baa900880f741a59cfe311fd5",
-    "disc:214044": "fab0ce0fa59bb93e54062282192195ebb0d51497aef25270d367c459845ed670",
     "disc:214043": "442f3dda226d46744e885485f50c11ca2a5d4378a78dac64a0fa4ed910abdccc",
+    "disc:214044": "fab0ce0fa59bb93e54062282192195ebb0d51497aef25270d367c459845ed670",
     "disc:214045": "16f08ca8a549bcb464f783b9799b0b9a7e8473f806916a50065088fd6167ddd9",
     "disc:214046": "ef09c0b86ec6f903478dcaa18d7aba4398888b8fcc0e362fac002cef67abab09",
     "disc:214047": "a8f9f4ce4e0c171a31846158e9b637cde9e57bd7141f2db87a9326bf6a442cf9",
@@ -6693,8 +6693,8 @@
       "id": "stellabase",
       "label": "StellaBase · data game komunitas",
       "status": "ok",
-      "lastAttemptAt": "2026-09-14T21:53:17.222Z",
-      "lastSuccessAt": "2026-09-14T21:53:17.222Z",
+      "lastAttemptAt": "2026-09-15T05:00:13.867Z",
+      "lastSuccessAt": "2026-09-15T05:00:13.867Z",
       "message": "0 perubahan kit terdeteksi; rekomendasi dihitung dari revisi live-0cf8911375ea5844.",
       "count": 139
     },
@@ -6702,8 +6702,8 @@
       "id": "official-news",
       "label": "Stella Sora · pengumuman resmi",
       "status": "ok",
-      "lastAttemptAt": "2026-09-14T21:53:17.222Z",
-      "lastSuccessAt": "2026-09-14T21:53:17.222Z",
+      "lastAttemptAt": "2026-09-15T05:00:13.867Z",
+      "lastSuccessAt": "2026-09-15T05:00:13.867Z",
       "fingerprint": "86071d6b2f09247a8bdda4a7128020cebe45e012212c8b6bfd9c72571499c72c",
       "count": 50,
       "message": "50 pengumuman resmi dibaca dari API situs."
@@ -6712,17 +6712,17 @@
       "id": "mobi-chitose",
       "label": "Mobi.gg · Chitose build",
       "status": "ok",
-      "lastAttemptAt": "2026-09-14T21:53:17.222Z",
-      "lastSuccessAt": "2026-09-14T21:53:17.222Z",
+      "lastAttemptAt": "2026-09-15T05:00:13.867Z",
+      "lastSuccessAt": "2026-09-15T05:00:13.867Z",
       "fingerprint": "b65d076b844f03cd599d4aa3b053381e4154e85a77ad49037f550c2ddee0e351",
       "contentChanged": true,
-      "message": "Isi sumber berubah; klaim yang merujuk versi sebelumnya perlu divalidasi ulang."
+      "message": "Halaman berhasil diperiksa."
     },
     {
       "id": "maygii-wraith",
       "label": "Maygii · panduan Wraith dengan perhitungan",
       "status": "error",
-      "lastAttemptAt": "2026-09-14T21:53:17.222Z",
+      "lastAttemptAt": "2026-09-15T05:00:13.867Z",
       "lastSuccessAt": "2026-09-11T08:26:39.999Z",
       "fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "contentChanged": false,
@@ -6731,11 +6731,12 @@
     {
       "id": "reddit-new",
       "label": "r/StellaSora · kiriman baru",
-      "status": "ok",
-      "lastAttemptAt": "2026-09-14T21:53:17.222Z",
+      "status": "error",
+      "lastAttemptAt": "2026-09-15T05:00:13.867Z",
       "lastSuccessAt": "2026-09-14T21:53:17.222Z",
-      "count": 25,
-      "message": "25 referensi ditemukan; isi perlu ditinjau sebelum menjadi bukti rekomendasi."
+      "fingerprint": null,
+      "contentChanged": false,
+      "message": "Sumber tidak dapat diambil atau schema berubah. Data terakhir yang valid tetap digunakan."
     },
     {
       "id": "youtube",
